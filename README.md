@@ -117,10 +117,59 @@ A list of image quality related papers published in 2020 top conferences and jou
 
 (32) [Deep Multimodality Learning for UAV Video Aesthetic Quality Assessment](https://ieeexplore.ieee.org/document/8936378)
 
-3. 
 
-(33) []()
+3. IEEE Transactions on Circuits and Systems for Video Technology
 
+(1) [Blind Image Quality Assessment Using a Deep Bilinear Convolutional Neural Network](https://ieeexplore.ieee.org/document/8576582)
 
+(2) [Blind Quality Metric for Contrast-Distorted Images Based on Eigendecomposition of Color Histograms](https://ieeexplore.ieee.org/document/8598763)
+
+(3) [Statistical and Structural Information Backed Full-Reference Quality Measure of Compressed Sonar Images](https://ieeexplore.ieee.org/document/8601353)
+
+(4) [Streaming Video QoE Modeling and Prediction: A Long Short-Term Memory Approach](https://ieeexplore.ieee.org/document/8626544)
+
+(5) [Deep Virtual Reality Image Quality Assessment With Human Perception Guider for Omnidirectional Image](https://ieeexplore.ieee.org/document/8638985)
+
+(6) [Unsupervised Blind Image Quality Evaluation via Statistical Measurements of Structure, Naturalness, and Perception](https://ieeexplore.ieee.org/document/8648473)
+
+(7) [A Robust Quality Enhancement Method Based on Joint Spatial-Temporal Priors for Video Coding](https://ieeexplore.ieee.org/document/9178742)
+
+(8) [Frame-wise CNN-based Filtering for Intra-Frame Quality Enhancement of HEVC Videos](https://ieeexplore.ieee.org/document/9171884)
+
+(9) [Action Quality Assessment using Siamese Network-Based Deep Metric Learning](https://ieeexplore.ieee.org/document/9171364)
+
+(10) [Blind Omnidirectional Image Quality Assessment with Viewport Oriented Graph Convolutional Networks](https://ieeexplore.ieee.org/document/9163077)
+
+(11) [Roundness-Preserving Warping for Aesthetic Enhancement-based Stereoscopic Image Editing](https://ieeexplore.ieee.org/document/9144262)
+
+(12) [Heterogeneous Spatial Quality for Omnidirectional Video](https://ieeexplore.ieee.org/document/9134797)
+
+(13) [Learning to Acquire the Quality of Human Pose Estimation](https://ieeexplore.ieee.org/document/9127514)
+
+(14) [Domain Fingerprints for No-reference Image Quality Assessment](https://ieeexplore.ieee.org/document/9117098)
+
+(15) [Image Retargeting Quality Assessment Based on Registration Confidence Measure and Noticeability-based Pooling](https://ieeexplore.ieee.org/document/9103006)
+
+(16) [Full-Reference Stereoscopic Video Quality Assessment Using a Motion Sensitive HVS Model](https://ieeexplore.ieee.org/document/9037332)
+
+(17) [PEA265: Perceptual Assessment of Video Compression Artifacts](https://ieeexplore.ieee.org/document/9035388)
+
+(18) [Subjective and Objective De-raining Quality Assessment Towards Authentic Rain Image](https://ieeexplore.ieee.org/document/8989831)
+
+(19) [Omnidirectional Video Quality Index Accounting for Judder](https://ieeexplore.ieee.org/document/8979422)
+
+(20) [A Light Field Image Quality Assessment Model Based on Symmetry and Depth Features](https://ieeexplore.ieee.org/document/8979387)
+
+(21) [No-Reference Light Field Image Quality Assessment Based on Spatial-Angular Measurement](https://ieeexplore.ieee.org/document/8908807)
+
+(22) [Perceptual Quality Assessment for Screen Content Images by Spatial Continuity](https://ieeexplore.ieee.org/document/8891730)
+
+(23) [No-reference Quality Assessment of Stereoscopic Videos with Inter-frame Cross on a Content-rich Database](https://ieeexplore.ieee.org/document/8877875)
+
+(24) [A Meta-learning Framework for Learning Multi-User Preferences in QoE Optimization of DASH](https://ieeexplore.ieee.org/document/8823029)
+
+(25) [Modeling the Perceptual Quality of Viewport Adaptive Omnidirectional Video Streaming](https://ieeexplore.ieee.org/document/8793140)
+
+(26) [Blind Quality Assessment for Cartoon Images](https://ieeexplore.ieee.org/document/8778679)
 
 
