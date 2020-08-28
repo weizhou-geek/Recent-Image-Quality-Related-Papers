@@ -3,7 +3,6 @@ A list of image quality related papers published in 2020 top conferences and jou
 
 
 ## Top Journal
-
 1. IEEE Transactions on Image Processing
 
 (1) [Sparse Representation-Based Video Quality Assessment for Synthesized 3D Videos](https://ieeexplore.ieee.org/document/8779585)
@@ -49,8 +48,6 @@ A list of image quality related papers published in 2020 top conferences and jou
 (21) [Screen Content Video Quality Assessment: Subjective and Objective Study](https://ieeexplore.ieee.org/document/9178481)
 
 (22) [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
-
-
 2. 
 
 (1) []()
