@@ -54,8 +54,6 @@ A list of recent image quality related papers published in top conferences and j
 
 (21) [Screen Content Video Quality Assessment: Subjective and Objective Study](https://ieeexplore.ieee.org/document/9178481)
 
-(22) [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
-
 
 2. IEEE Transactions on Multimedia
 
