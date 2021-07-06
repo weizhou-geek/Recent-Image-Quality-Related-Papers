@@ -269,18 +269,25 @@ Early Access
 
 1. IEEE Conference on Computer Vision and Pattern Recognition
 
+[Rich Features for Perceptual Quality Assessment of UGC Videos](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Rich_Features_for_Perceptual_Quality_Assessment_of_UGC_Videos_CVPR_2021_paper.pdf)
 
-[]()
+[MagFace: A Universal Representation for Face Recognition and Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021/papers/Meng_MagFace_A_Universal_Representation_for_Face_Recognition_and_Quality_Assessment_CVPR_2021_paper.pdf)
 
-[]()
+[Patch-VQ: 'Patching Up' the Video Quality Problem](https://openaccess.thecvf.com/content/CVPR2021/papers/Ying_Patch-VQ_Patching_Up_the_Video_Quality_Problem_CVPR_2021_paper.pdf)
 
-[]()
+[Debiased Subjective Assessment of Real-World Image Enhancement](https://openaccess.thecvf.com/content/CVPR2021/papers/Cao_Debiased_Subjective_Assessment_of_Real-World_Image_Enhancement_CVPR_2021_paper.pdf)
 
-[]()
+[SDD-FIQA: Unsupervised Face Image Quality Assessment With Similarity Distribution Distance](https://openaccess.thecvf.com/content/CVPR2021/papers/Ou_SDD-FIQA_Unsupervised_Face_Image_Quality_Assessment_With_Similarity_Distribution_Distance_CVPR_2021_paper.pdf)
 
-[]()
+[Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Generalized_Focal_Loss_V2_Learning_Reliable_Localization_Quality_Estimation_for_CVPR_2021_paper.pdf)
 
-[]()
+[Hierarchical Layout-Aware Graph Convolutional Network for Unified Aesthetics Assessment](https://openaccess.thecvf.com/content/CVPR2021/papers/She_Hierarchical_Layout-Aware_Graph_Convolutional_Network_for_Unified_Aesthetics_Assessment_CVPR_2021_paper.pdf)
+
+[Quality-Agnostic Image Recognition via Invertible Decoder](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Quality-Agnostic_Image_Recognition_via_Invertible_Decoder_CVPR_2021_paper.pdf)
+
+[Towards Unified Surgical Skill Assessment](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Towards_Unified_Surgical_Skill_Assessment_CVPR_2021_paper.pdf)
+
+[Troubleshooting Blind Image Quality Models in the Wild](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Troubleshooting_Blind_Image_Quality_Models_in_the_Wild_CVPR_2021_paper.pdf)
 
 2020
 
