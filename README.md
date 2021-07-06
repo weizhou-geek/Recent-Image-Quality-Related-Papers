@@ -6,6 +6,32 @@ A list of recent image quality related papers published in top conferences and j
 
 1. IEEE Transactions on Image Processing
 
+2021
+
+[Image Defogging Quality Assessment: Real-World Database and Method](https://ieeexplore.ieee.org/document/9244631/)
+
+[Quality Assessment of Free-Viewpoint Videos by Quantifying the Elastic Changes of Multi-Scale Motion Trajectories](https://ieeexplore.ieee.org/document/9262019/)
+
+[Perceptual Video Quality Prediction Emphasizing Chroma Distortions](https://ieeexplore.ieee.org/document/9298463/)
+
+[Cubemap-Based Perception-Driven Blind Quality Assessment for 360-degree Images](https://ieeexplore.ieee.org/document/9334423/)
+
+[Superpixel-Based Quality Assessment of Multi-Exposure Image Fusion for Both Static and Dynamic Scenes](https://ieeexplore.ieee.org/document/9337173)
+
+[SSIM Compliant Modeling Framework With Denoising and Deblurring Applications](https://ieeexplore.ieee.org/document/9337182/)
+
+[Uncertainty-Aware Blind Image Quality Assessment in the Laboratory and Wild](https://ieeexplore.ieee.org/document/9369977/)
+
+[Blind Image Quality Assessment With Active Inferenc](https://ieeexplore.ieee.org/document/9376644)
+
+[UGC-VQA: Benchmarking Blind Video Quality Assessment for User Generated Content](https://ieeexplore.ieee.org/document/9405420)
+
+[Towards Perceptually Optimized Adaptive Video Streaming-A Realistic Quality of Experience Database](https://ieeexplore.ieee.org/document/9409699)
+
+[No-Reference Screen Content Image Quality Assessment With Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9447183/)
+
+[Subjective and Objective Quality Assessment of 2D and 3D Foveated Video Compression in Virtual Reality](https://ieeexplore.ieee.org/document/9454264)
+
 2020
 
 [Sparse Representation-Based Video Quality Assessment for Synthesized 3D Videos](https://ieeexplore.ieee.org/document/8779585)
