@@ -22,7 +22,7 @@ A list of recent image quality related papers published in top conferences and j
 
 [Uncertainty-Aware Blind Image Quality Assessment in the Laboratory and Wild](https://ieeexplore.ieee.org/document/9369977/)
 
-[Blind Image Quality Assessment With Active Inferenc](https://ieeexplore.ieee.org/document/9376644)
+[Blind Image Quality Assessment With Active Inference](https://ieeexplore.ieee.org/document/9376644)
 
 [UGC-VQA: Benchmarking Blind Video Quality Assessment for User Generated Content](https://ieeexplore.ieee.org/document/9405420)
 
