@@ -6,8 +6,10 @@ A list of recent image quality related papers published in top conferences and j
 
 1. IEEE Transactions on Image Processing
 
+## Year 2021
+(1) [Sparse Representation-Based Video Quality Assessment for Synthesized 3D Videos](https://ieeexplore.ieee.org/document/8779585)
+
 ## Year 2020
-```
 (1) [Sparse Representation-Based Video Quality Assessment for Synthesized 3D Videos](https://ieeexplore.ieee.org/document/8779585)
 
 (2) [From Pairwise Comparisons and Rating to a Unified Quality Scale](https://ieeexplore.ieee.org/document/8818316)
@@ -51,7 +53,6 @@ A list of recent image quality related papers published in top conferences and j
 (21) [Screen Content Video Quality Assessment: Subjective and Objective Study](https://ieeexplore.ieee.org/document/9178481)
 
 (22) [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
-```
 
 
 2. IEEE Transactions on Multimedia
