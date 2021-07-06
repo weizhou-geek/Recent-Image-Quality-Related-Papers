@@ -209,18 +209,20 @@ A list of recent image quality related papers published in top conferences and j
 
 1. IEEE Conference on Computer Vision and Pattern Recognition
 
-(1) [Assessing Image Quality Issues for Real-World Problems](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chiu_Assessing_Image_Quality_Issues_for_Real-World_Problems_CVPR_2020_paper.pdf)
+2020
 
-(2) [Blindly Assess Image Quality in the Wild Guided by a Self-Adaptive Hyper Network](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf)
+[Assessing Image Quality Issues for Real-World Problems](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chiu_Assessing_Image_Quality_Issues_for_Real-World_Problems_CVPR_2020_paper.pdf)
 
-(3) [Perceptual Quality Assessment of Smartphone Photography](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.pdf)
+[Blindly Assess Image Quality in the Wild Guided by a Self-Adaptive Hyper Network](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf)
 
-(4) [SER-FIQ: Unsupervised Estimation of Face Image Quality Based on Stochastic Embedding Robustness](https://openaccess.thecvf.com/content_CVPR_2020/papers/Terhorst_SER-FIQ_Unsupervised_Estimation_of_Face_Image_Quality_Based_on_Stochastic_CVPR_2020_paper.pdf)
+[Perceptual Quality Assessment of Smartphone Photography](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.pdf)
 
-(5) [MetaIQA: Deep Meta-Learning for No-Reference Image Quality Assessment](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_MetaIQA_Deep_Meta-Learning_for_No-Reference_Image_Quality_Assessment_CVPR_2020_paper.pdf)
+[SER-FIQ: Unsupervised Estimation of Face Image Quality Based on Stochastic Embedding Robustness](https://openaccess.thecvf.com/content_CVPR_2020/papers/Terhorst_SER-FIQ_Unsupervised_Estimation_of_Face_Image_Quality_Based_on_Stochastic_CVPR_2020_paper.pdf)
 
-(6) [Assessing Eye Aesthetics for Automatic Multi-Reference Eye In-Painting](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Assessing_Eye_Aesthetics_for_Automatic_Multi-Reference_Eye_In-Painting_CVPR_2020_paper.pdf)
+[MetaIQA: Deep Meta-Learning for No-Reference Image Quality Assessment](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_MetaIQA_Deep_Meta-Learning_for_No-Reference_Image_Quality_Assessment_CVPR_2020_paper.pdf)
 
-(7) [Adaptive Fractional Dilated Convolution Network for Image Aesthetics Assessment](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adaptive_Fractional_Dilated_Convolution_Network_for_Image_Aesthetics_Assessment_CVPR_2020_paper.pdf)
+[Assessing Eye Aesthetics for Automatic Multi-Reference Eye In-Painting](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Assessing_Eye_Aesthetics_for_Automatic_Multi-Reference_Eye_In-Painting_CVPR_2020_paper.pdf)
+
+[Adaptive Fractional Dilated Convolution Network for Image Aesthetics Assessment](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adaptive_Fractional_Dilated_Convolution_Network_for_Image_Aesthetics_Assessment_CVPR_2020_paper.pdf)
 
 
