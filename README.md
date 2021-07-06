@@ -5,7 +5,8 @@ A list of recent image quality related papers published in top conferences and j
 ## Top Journal
 
 1. IEEE Transactions on Image Processing
-[Year 2020]
+
+## Year 2020
 
 (1) [Sparse Representation-Based Video Quality Assessment for Synthesized 3D Videos](https://ieeexplore.ieee.org/document/8779585)
 
