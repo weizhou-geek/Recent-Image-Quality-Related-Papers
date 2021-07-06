@@ -6,6 +6,10 @@ A list of recent image quality related papers published in top conferences and j
 
 1. IEEE Transactions on Image Processing
 
+Early Access
+
+[Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874/)
+
 2021
 
 [Image Defogging Quality Assessment: Real-World Database and Method](https://ieeexplore.ieee.org/document/9244631/)
@@ -85,20 +89,77 @@ A list of recent image quality related papers published in top conferences and j
 
 2. IEEE Transactions on Multimedia
 
+Early Access
+
+[Subjective evaluation of visual quality and simulator sickness of short 360 videos: ITU-T Rec. P.919](https://ieeexplore.ieee.org/document/9474501)
+
+[Combining Retargeting Quality and Depth Perception Measures for Quality Evaluation of Retargeted Stereopairs](https://ieeexplore.ieee.org/document/9435954)
+
+[Underwater Image Quality Assessment: Subjective and Objective Methods](https://ieeexplore.ieee.org/document/9410381)
+
+[List-wise Rank Learning for Stereoscopic Image Retargeting Quality Assessment](https://ieeexplore.ieee.org/document/9388879/)
+
+[Motion Blur Removal with Quality Assessment Guidance](https://ieeexplore.ieee.org/document/9385903)
+
+[Blind Stereoscopic Image Quality Evaluator based on Binocular Semantic and Quality Channels](https://ieeexplore.ieee.org/document/9380504)
+
+[Quality Assessment for Omnidirectional Video: A Spatio-Temporal Distortion Modeling Approach](https://ieeexplore.ieee.org/document/9296376)
+
+[TTL-IQA: Transitive Transfer Learning based no-reference Image Quality Assessment](https://ieeexplore.ieee.org/document/9271914)
+
+[Blind Quality Assessment of Screen Content Images via Macro-Micro Modeling of Tensor Domain Dictionary](https://ieeexplore.ieee.org/document/9265449)
+
+[Re-visiting Discriminator for Blind Free-Viewpoint Image Quality Assessment](https://ieeexplore.ieee.org/document/9262007)
+
+[MaD-DLS: Mean and Deviation of Deep and Local Similarity for Image Quality Assessment](https://ieeexplore.ieee.org/document/9257192)
+
+[Point Cloud Rendering after Coding: Impacts on Subjective and Objective Quality](https://ieeexplore.ieee.org/document/9257015)
+
+[Predicting the Perceptual Quality of Point Cloud: A 3D-to-2D Projection-Based Exploration](https://ieeexplore.ieee.org/document/9238424)
+
+[Comparative Perceptual Assessment of Visual Signals Using Free Energy Features](https://ieeexplore.ieee.org/document/9220833)
+
+[Quality Evaluation for Image Retargeting with Instance Semantics](https://ieeexplore.ieee.org/document/9167470)
+
+[Estimation of Quality Scores from Subjective Tests - beyond Subjects' MOS](https://ieeexplore.ieee.org/document/9154548)
+
+[Measuring Coarse-to-Fine Texture and Geometric Distortions for Quality Assessment of DIBR-Synthesized Images](https://ieeexplore.ieee.org/document/9091246)
+
+2021
+
+[BVI-SynTex: A Synthetic Video Texture Dataset for Video Compression and Quality Assessment](https://ieeexplore.ieee.org/document/9016124/)
+
+[Quality Index for View Synthesis by Measuring Instance Degradation and Global Appearance](https://ieeexplore.ieee.org/document/9035472/)
+
+[A Physiology-Based QoE Comparison of Interactive Augmented Reality, Virtual Reality and Tablet-Based Applications](https://ieeexplore.ieee.org/document/9042281/)
+
+[Beyond Vision: A Multimodal Recurrent Attention Convolutional Neural Network for Unified Image Aesthetic Prediction Tasks](https://ieeexplore.ieee.org/document/9057597)
+
+[Exploiting Local Degradation Characteristics and Global Statistical Properties for Blind Quality Assessment of Tone-Mapped HDR Images](https://ieeexplore.ieee.org/document/9064671/)
+
+[Panoramic Video Quality Assessment Based on Non-Local Spherical CNN](https://ieeexplore.ieee.org/document/9076835/)
+
+[Blind Quality Assessment for Tone-Mapped Images by Analysis of Gradient and Chromatic Statistics](https://ieeexplore.ieee.org/document/9082863/)
+
+[Semi-Reference Sonar Image Quality Assessment Based on Task and Visual Perception](https://ieeexplore.ieee.org/document/9082850/)
+
+[Blind Image Quality Assessment Based on Multi-scale KLT](https://ieeexplore.ieee.org/document/9113755)
+
+[Image Quality Assessment Using Kernel Sparse Coding](https://ieeexplore.ieee.org/document/9113337)
+
+[Subjective and Objective Quality Assessment for Stereoscopic Image Retargeting](https://ieeexplore.ieee.org/document/9139288)
 
 2020
 
-[QoE Analysis of Dense Multiview Video With Head-Mounted Devices](https://ieeexplore.ieee.org/document/8744321)
+[DeepQoE: A Multimodal Learning Framework for Video Quality of Experience (QoE) Prediction](https://ieeexplore.ieee.org/document/8999528)
 
-[Robust QoE-Driven DASH Over OFDMA Networks](https://ieeexplore.ieee.org/document/8782601)
+[Learning Local Quality-Aware Structures of Salient Regions for Stereoscopic Images via Deep Neural Networks](https://ieeexplore.ieee.org/document/8955955/)
 
-[Vibrotactile Quality Assessment: Hybrid Metric Design Based on SNR and SSIM](https://ieeexplore.ieee.org/document/8807345)
+[Deep Multimodality Learning for UAV Video Aesthetic Quality Assessment](https://ieeexplore.ieee.org/document/8936378)
 
-[Training Objective Image and Video Quality Estimators Using Multiple Databases](https://ieeexplore.ieee.org/document/8801886)
+[No-Reference Quality Evaluation of Stereoscopic Video Based on Spatio-Temporal Texture](https://ieeexplore.ieee.org/document/8937476)
 
-[How Do We Experience Crossmodal Correspondent Mulsemedia Content?](https://ieeexplore.ieee.org/document/8836637)
-
-[Blind Night-Time Image Quality Assessment: Subjective and Objective Approaches](https://ieeexplore.ieee.org/document/8821407)
+[QoE-Aware Multi-Source Video Streaming in Content Centric Networks](https://ieeexplore.ieee.org/document/8931656)
 
 [A Multi-Attribute Blind Quality Evaluator for Tone-Mapped Images](https://ieeexplore.ieee.org/document/8887194)
 
@@ -106,54 +167,30 @@ A list of recent image quality related papers published in top conferences and j
 
 [FFTMI: Features Fusion for Natural Tone-Mapped Images Quality Evaluation](https://ieeexplore.ieee.org/document/8894517)
 
-[QoE-Aware Multi-Source Video Streaming in Content Centric Networks](https://ieeexplore.ieee.org/document/8931656)
+[Blind Night-Time Image Quality Assessment: Subjective and Objective Approaches](https://ieeexplore.ieee.org/document/8821407)
 
-[Quality Evaluation for Image Retargeting with Instance Semantics](https://ieeexplore.ieee.org/document/9167470)
+[Vibrotactile Quality Assessment: Hybrid Metric Design Based on SNR and SSIM](https://ieeexplore.ieee.org/document/8807345)
 
-[Estimation of Quality Scores from Subjective Tests - beyond Subjects' MOS](https://ieeexplore.ieee.org/document/9154548)
+[An EEG-Based Study on Perception of Video Distortion Under Various Content Motion Conditions](https://ieeexplore.ieee.org/document/8793159/)
 
-[QoE-Driven UAV-Enabled Pseudo-Analog Wireless Video Broadcast: A Joint Optimization of Power and Trajectory](https://ieeexplore.ieee.org/document/9147052)
+[Training Objective Image and Video Quality Estimators Using Multiple Databases](https://ieeexplore.ieee.org/document/8801886)
 
-[Subjective and Objective Quality Assessment for Stereoscopic 3D Image Retargeting](https://ieeexplore.ieee.org/document/9139288)
+[Learning the Traditional Art of Chinese Calligraphy via Three-Dimensional Reconstruction and Assessment](https://ieeexplore.ieee.org/document/8811628)
 
-[Blind Image Quality Assessment Based on Multi-scale KLT](https://ieeexplore.ieee.org/document/9113755)
-
-[Image Quality Assessment Using Kernel Sparse Coding](https://ieeexplore.ieee.org/document/9113337)
-
-[QoE-driven HAS Live Video Channel Placement in the Media Cloud](https://ieeexplore.ieee.org/document/9107484)
-
-[Measuring Coarse-to-Fine Texture and Geometric Distortions for Quality Assessment of DIBR-Synthesized Images](https://ieeexplore.ieee.org/document/9091246)
-
-[Semi-Reference Sonar Image Quality Assessment Based on Task and Visual Perception](https://ieeexplore.ieee.org/document/9082850)
-
-[Blind Quality Assessment for Tone-Mapped Images by Analysis of Gradient and Chromatic Statistics](https://ieeexplore.ieee.org/document/9082863)
-
-[Energy Optimization and QoE Satisfaction for Wireless Visual Sensor Networks in Multi Target Tracking Scenario](https://ieeexplore.ieee.org/document/9076804)
-
-[Panoramic Video Quality Assessment Based on Non-local Spherical CNN](https://ieeexplore.ieee.org/document/9076835)
-
-[Modeling QoE for Buffered Video Streaming in Interference-Limited Cellular Networks](https://ieeexplore.ieee.org/document/9076823)
-
-[Predictive Adaptive Streaming to Enable Mobile 360-degree and VR Experiences](https://ieeexplore.ieee.org/document/9069299)
-
-[Exploiting Local Degradation Characteristics and Global Statistical Properties for Blind Quality Assessment of Tone-Mapped HDR Images](https://ieeexplore.ieee.org/document/9064671)
-
-[A Physiology-based QoE Comparison of Interactive Augmented Reality, Virtual Reality and Tablet-based Applications](https://ieeexplore.ieee.org/document/9042281)
-
-[Quality Index for View Synthesis by Measuring Instance Degradation and Global Appearance](https://ieeexplore.ieee.org/document/9035472)
-
-[BVI-SynTex: A Synthetic Video Texture Dataset for Video Compression and Quality Assessment](https://ieeexplore.ieee.org/document/9016124)
-
-[DeepQoE: A Multimodal Learning Framework for Video Quality of Experience (QoE) Prediction](https://ieeexplore.ieee.org/document/8999528)
-
-[Learning Local Quality-aware Structures of Salient Regions for Stereoscopic Images via Deep Neural Networks](https://ieeexplore.ieee.org/document/8955955)
-
-[No-Reference Quality Evaluation of Stereoscopic Video Based on Spatio-Temporal Texture](https://ieeexplore.ieee.org/document/8937476)
-
-[Deep Multimodality Learning for UAV Video Aesthetic Quality Assessment](https://ieeexplore.ieee.org/document/8936378)
+[QoE Analysis of Dense Multiview Video With Head-Mounted Devices](https://ieeexplore.ieee.org/document/8744321)
 
 
 3. IEEE Transactions on Circuits and Systems for Video Technology
+
+Early Access
+
+[]()
+
+[]()
+
+[]()
+2021
+
 
 2020
 
