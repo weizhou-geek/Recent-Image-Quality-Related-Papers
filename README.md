@@ -91,6 +91,10 @@ Early Access
 
 Early Access
 
+[Objective Quality Assessment of Lenslet Light Field Image Based on Focus Stack](https://ieeexplore.ieee.org/document/9483691)
+
+[Quality evaluation of holographic images coded with standard codecs](https://ieeexplore.ieee.org/document/9479782)
+
 [Subjective evaluation of visual quality and simulator sickness of short 360 videos: ITU-T Rec. P.919](https://ieeexplore.ieee.org/document/9474501)
 
 [Combining Retargeting Quality and Depth Perception Measures for Quality Evaluation of Retargeted Stereopairs](https://ieeexplore.ieee.org/document/9435954)
