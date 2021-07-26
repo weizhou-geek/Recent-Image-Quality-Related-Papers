@@ -188,6 +188,8 @@ Early Access
 
 Early Access
 
+[Fine-Grained Image Quality Assessment: A Revisit and Further Thinking](https://ieeexplore.ieee.org/document/9481243)
+
 [Learning Generalized Spatial-Temporal Deep Feature Representation for No-Reference Video Quality Assessment](https://ieeexplore.ieee.org/document/9452150)
 
 [A high visual quality color image reversible data hiding scheme based on B-R-G embedding principle and CIEDE2000 assessment metric](https://ieeexplore.ieee.org/document/9443216)
