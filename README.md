@@ -188,6 +188,8 @@ Early Access
 
 Early Access
 
+[PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection](https://ieeexplore.ieee.org/document/9496633)
+
 [Fine-Grained Image Quality Assessment: A Revisit and Further Thinking](https://ieeexplore.ieee.org/document/9481243)
 
 [Learning Generalized Spatial-Temporal Deep Feature Representation for No-Reference Video Quality Assessment](https://ieeexplore.ieee.org/document/9452150)
