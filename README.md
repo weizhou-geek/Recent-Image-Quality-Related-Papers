@@ -188,6 +188,8 @@ Early Access
 
 Early Access
 
+[Subjective Quality Database and Objective Study of Compressed Point Clouds with 6DoF Head-mounted Display](https://ieeexplore.ieee.org/document/9502695)
+
 [PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection](https://ieeexplore.ieee.org/document/9496633)
 
 [Fine-Grained Image Quality Assessment: A Revisit and Further Thinking](https://ieeexplore.ieee.org/document/9481243)
