@@ -91,6 +91,8 @@ Early Access
 
 Early Access
 
+[Learning-Based Quality Assessment for Image Super-Resolution](https://ieeexplore.ieee.org/document/9512504/)
+
 [Objective Quality Assessment of Lenslet Light Field Image Based on Focus Stack](https://ieeexplore.ieee.org/document/9483691)
 
 [Quality evaluation of holographic images coded with standard codecs](https://ieeexplore.ieee.org/document/9479782)
