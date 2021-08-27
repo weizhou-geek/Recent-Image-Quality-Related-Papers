@@ -8,6 +8,8 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
+[ST-GREED: Space-Time Generalized Entropic Differences for Frame Rate Dependent Video Quality Prediction](https://ieeexplore.ieee.org/document/9524440)
+
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874/)
 
 2021
@@ -280,6 +282,8 @@ Early Access
 ## Top Conference
 
 1. IEEE Conference on Computer Vision and Pattern Recognition
+
+2021
 
 [Rich Features for Perceptual Quality Assessment of UGC Videos](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Rich_Features_for_Perceptual_Quality_Assessment_of_UGC_Videos_CVPR_2021_paper.pdf)
 
