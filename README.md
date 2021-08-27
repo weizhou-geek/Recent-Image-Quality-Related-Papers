@@ -93,6 +93,8 @@ Early Access
 
 Early Access
 
+[Video Quality Assessment with Serial Dependence Modeling](https://ieeexplore.ieee.org/document/9522100/)
+
 [Learning-Based Quality Assessment for Image Super-Resolution](https://ieeexplore.ieee.org/document/9512504/)
 
 [Objective Quality Assessment of Lenslet Light Field Image Based on Focus Stack](https://ieeexplore.ieee.org/document/9483691)
