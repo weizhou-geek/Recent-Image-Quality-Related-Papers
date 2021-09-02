@@ -8,11 +8,13 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
-[ST-GREED: Space-Time Generalized Entropic Differences for Frame Rate Dependent Video Quality Prediction](https://ieeexplore.ieee.org/document/9524440)
+[Predicting the Quality of Compressed Videos with Pre-Existing Distortions](https://ieeexplore.ieee.org/document/9525062)
 
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874/)
 
 2021
+
+[ST-GREED: Space-Time Generalized Entropic Differences for Frame Rate Dependent Video Quality Prediction](https://ieeexplore.ieee.org/document/9524440)
 
 [Image Defogging Quality Assessment: Real-World Database and Method](https://ieeexplore.ieee.org/document/9244631/)
 
