@@ -200,6 +200,8 @@ Early Access
 
 Early Access
 
+[Spatiotemporal Representation Learning for Blind Video Quality Assessment](https://ieeexplore.ieee.org/document/9546044/)
+
 [LGGD+: Image Retargeting Quality Assessment by Measuring Local and Global Geometric Distortions](https://ieeexplore.ieee.org/document/9537816)
 
 [Monocular and Binocular Interactions Oriented Deformable Convolutional Networks for Blind Quality Assessment of Stereoscopic Omnidirectional Images](https://ieeexplore.ieee.org/document/9536507)
