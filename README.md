@@ -8,8 +8,6 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
-[ChipQA: No-Reference Video Quality Prediction via Space-Time Chips](https://ieeexplore.ieee.org/document/9540785)
-
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874/)
 
 2021
@@ -43,6 +41,8 @@ Early Access
 [ST-GREED: Space-Time Generalized Entropic Differences for Frame Rate Dependent Video Quality Prediction](https://ieeexplore.ieee.org/document/9524440)
 
 [Predicting the Quality of Compressed Videos with Pre-Existing Distortions](https://ieeexplore.ieee.org/document/9525062)
+
+[ChipQA: No-Reference Video Quality Prediction via Space-Time Chips](https://ieeexplore.ieee.org/document/9540785)
 
 2020
 
