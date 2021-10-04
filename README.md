@@ -99,6 +99,8 @@ Early Access
 
 Early Access
 
+[A Novel Rank Learning Based No-Reference Image Quality Assessment Method](https://ieeexplore.ieee.org/document/9548827)
+
 [Video Quality Assessment with Serial Dependence Modeling](https://ieeexplore.ieee.org/document/9522100/)
 
 [Learning-Based Quality Assessment for Image Super-Resolution](https://ieeexplore.ieee.org/document/9512504/)
