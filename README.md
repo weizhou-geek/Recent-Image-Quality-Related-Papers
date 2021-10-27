@@ -4,7 +4,7 @@ A list of recent image quality related papers published in top journals and conf
 
 ## Top Journal
 
-1. IEEE Transactions on Image Processing
+1. [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 
 Early Access
 
