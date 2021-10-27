@@ -99,6 +99,8 @@ Early Access
 
 Early Access
 
+[Perceptual Quality Assessment of Cartoon Images](https://ieeexplore.ieee.org/document/9585540/)
+
 [Semi-supervised Adversarial Learning for Attribute-Aware Photo Aesthetic Assessment](https://ieeexplore.ieee.org/document/9563269)
 
 [A Novel Rank Learning Based No-Reference Image Quality Assessment Method](https://ieeexplore.ieee.org/document/9548827)
