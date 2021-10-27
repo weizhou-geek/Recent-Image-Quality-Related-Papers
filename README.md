@@ -200,7 +200,7 @@ Early Access
 [QoE Analysis of Dense Multiview Video With Head-Mounted Devices](https://ieeexplore.ieee.org/document/8744321)
 
 
-3. IEEE Transactions on Circuits and Systems for Video Technology
+3. [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 
 Early Access
 
