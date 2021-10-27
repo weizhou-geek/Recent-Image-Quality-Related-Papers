@@ -95,7 +95,7 @@ Early Access
 [Screen Content Video Quality Assessment: Subjective and Objective Study](https://ieeexplore.ieee.org/document/9178481)
 
 
-2. IEEE Transactions on Multimedia
+2. [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 
 Early Access
 
