@@ -8,6 +8,8 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
+[No-Reference Physics-Based Quality Assessment of Polarization Images and its Application to Demosaicking](https://ieeexplore.ieee.org/document/9591341)
+
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874/)
 
 2021
