@@ -244,6 +244,8 @@ Early Access
 
 [MMMNet: An End-to-End Multi-task Deep Convolution Neural Network with Multi-scale and Multi-hierarchy Fusion for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9337868/)
 
+2021
+
 [Modeling the Perceptual Quality for Viewport-Adaptive Omnidirectional Video Streaming Considering Dynamic Quality Boundary Artifact](https://ieeexplore.ieee.org/document/9317771)
 
 [Viewport Perception based Blind Stereoscopic Omnidirectional Image Quality Assessment](https://ieeexplore.ieee.org/document/9286528)
@@ -251,8 +253,6 @@ Early Access
 [Data-Driven Transform Based Compressed Image Quality Assessment](https://ieeexplore.ieee.org/document/9274532)
 
 [Perceptual Quality Assessment for Asymmetrically Distorted Stereoscopic Video by Temporal Binocular Rivalry](https://ieeexplore.ieee.org/document/9247139)
-
-2021
 
 [Visual Quality Assessment for Perceptually Encrypted Light Field Images](https://ieeexplore.ieee.org/document/9205895)
 
