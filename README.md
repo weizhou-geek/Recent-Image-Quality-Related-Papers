@@ -101,6 +101,8 @@ Early Access
 
 Early Access
 
+[User-generated Video Quality Assessment: A Subjective and Objective Study](https://ieeexplore.ieee.org/document/9594705)
+
 [Perceptual Quality Assessment of Cartoon Images](https://ieeexplore.ieee.org/document/9585540/)
 
 [Semi-supervised Adversarial Learning for Attribute-Aware Photo Aesthetic Assessment](https://ieeexplore.ieee.org/document/9563269)
