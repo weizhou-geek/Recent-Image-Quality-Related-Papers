@@ -101,6 +101,8 @@ Early Access
 
 Early Access
 
+[CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360 VR Videos](https://ieeexplore.ieee.org/document/9599346/)
+
 [User-generated Video Quality Assessment: A Subjective and Objective Study](https://ieeexplore.ieee.org/document/9594705)
 
 [Perceptual Quality Assessment of Cartoon Images](https://ieeexplore.ieee.org/document/9585540/)
