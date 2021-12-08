@@ -141,6 +141,8 @@ Early Access
 
 [Quality Assessment for Omnidirectional Video: A Spatio-Temporal Distortion Modeling Approach](https://ieeexplore.ieee.org/document/9296376)
 
+2021
+
 [TTL-IQA: Transitive Transfer Learning based no-reference Image Quality Assessment](https://ieeexplore.ieee.org/document/9271914)
 
 [Blind Quality Assessment of Screen Content Images via Macro-Micro Modeling of Tensor Domain Dictionary](https://ieeexplore.ieee.org/document/9265449)
@@ -160,8 +162,6 @@ Early Access
 [Estimation of Quality Scores from Subjective Tests - beyond Subjects' MOS](https://ieeexplore.ieee.org/document/9154548)
 
 [Measuring Coarse-to-Fine Texture and Geometric Distortions for Quality Assessment of DIBR-Synthesized Images](https://ieeexplore.ieee.org/document/9091246)
-
-2021
 
 [BVI-SynTex: A Synthetic Video Texture Dataset for Video Compression and Quality Assessment](https://ieeexplore.ieee.org/document/9016124/)
 
