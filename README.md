@@ -107,6 +107,8 @@ Early Access
 
 Early Access
 
+[No-Reference Light Field Image Quality Assessment Using Four-Dimensional Sparse Transform](https://ieeexplore.ieee.org/document/9613753)
+
 [CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360 VR Videos](https://ieeexplore.ieee.org/document/9599346/)
 
 [User-generated Video Quality Assessment: A Subjective and Objective Study](https://ieeexplore.ieee.org/document/9594705)
