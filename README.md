@@ -220,6 +220,8 @@ Early Access
 
 Early Access
 
+[Multi-Angle Projection Based Blind Omnidirectional Image Quality Assessment](https://ieeexplore.ieee.org/document/9614114)
+
 [Spatiotemporal Representation Learning for Blind Video Quality Assessment](https://ieeexplore.ieee.org/document/9546044/)
 
 [LGGD+: Image Retargeting Quality Assessment by Measuring Local and Global Geometric Distortions](https://ieeexplore.ieee.org/document/9537816)
