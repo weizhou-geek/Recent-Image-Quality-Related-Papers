@@ -12,6 +12,10 @@ Early Access
 
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874/)
 
+2022
+
+[Completely Blind Quality Assessment of User Generated Video Content](https://ieeexplore.ieee.org/document/9633248)
+
 2021
 
 [Image Defogging Quality Assessment: Real-World Database and Method](https://ieeexplore.ieee.org/document/9244631/)
