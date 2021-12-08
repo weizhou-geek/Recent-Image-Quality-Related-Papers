@@ -230,10 +230,6 @@ Early Access
 
 [Blind Image Quality Index for Authentic Distortions With Local and Global Deep Feature Aggregation](https://ieeexplore.ieee.org/document/9536693)
 
-[Subjective Quality Database and Objective Study of Compressed Point Clouds with 6DoF Head-mounted Display](https://ieeexplore.ieee.org/document/9502695)
-
-[PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection](https://ieeexplore.ieee.org/document/9496633)
-
 [Fine-Grained Image Quality Assessment: A Revisit and Further Thinking](https://ieeexplore.ieee.org/document/9481243)
 
 [Learning Generalized Spatial-Temporal Deep Feature Representation for No-Reference Video Quality Assessment](https://ieeexplore.ieee.org/document/9452150)
@@ -254,9 +250,13 @@ Early Access
 
 [Viewport-based Omnidirectional Video Quality Assessment: Database, Modeling and Inference](https://ieeexplore.ieee.org/document/9349097)
 
-[MMMNet: An End-to-End Multi-task Deep Convolution Neural Network with Multi-scale and Multi-hierarchy Fusion for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9337868/)
-
 2021
+
+[Subjective Quality Database and Objective Study of Compressed Point Clouds with 6DoF Head-mounted Display](https://ieeexplore.ieee.org/document/9502695)
+
+[PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection](https://ieeexplore.ieee.org/document/9496633)
+
+[MMMNet: An End-to-End Multi-task Deep Convolution Neural Network with Multi-scale and Multi-hierarchy Fusion for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9337868/)
 
 [Modeling the Perceptual Quality for Viewport-Adaptive Omnidirectional Video Streaming Considering Dynamic Quality Boundary Artifact](https://ieeexplore.ieee.org/document/9317771)
 
