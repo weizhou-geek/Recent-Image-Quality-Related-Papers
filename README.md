@@ -8,11 +8,11 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
-[Contrastive Self-supervised Pre-training for Video Quality Assessment](https://ieeexplore.ieee.org/document/9640574)
-
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874/)
 
 2022
+
+[Contrastive Self-supervised Pre-training for Video Quality Assessment](https://ieeexplore.ieee.org/document/9640574)
 
 [Completely Blind Quality Assessment of User Generated Video Content](https://ieeexplore.ieee.org/document/9633248)
 
