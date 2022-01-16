@@ -8,13 +8,13 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
-[A Subjective and Objective Study of Space-Time Subsampled Video Quality](https://ieeexplore.ieee.org/document/9665209)
-
-[Study of the Subjective and Objective Quality of High Motion Live Streaming Videos](https://ieeexplore.ieee.org/document/9662669)
-
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874/)
 
 2022
+
+[A Subjective and Objective Study of Space-Time Subsampled Video Quality](https://ieeexplore.ieee.org/document/9665209)
+
+[Study of the Subjective and Objective Quality of High Motion Live Streaming Videos](https://ieeexplore.ieee.org/document/9662669)
 
 [Contrastive Self-supervised Pre-training for Video Quality Assessment](https://ieeexplore.ieee.org/document/9640574)
 
