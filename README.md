@@ -8,6 +8,8 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
+[Quality Assessment of DIBR-synthesized views based on Sparsity of Difference of Closings and Difference of Gaussians](https://ieeexplore.ieee.org/document/9673122)
+
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874/)
 
 2022
