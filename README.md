@@ -226,6 +226,10 @@ Early Access
 
 Early Access
 
+[Dual-Channel Multi-Task CNN for No-Reference Screen Content Image Quality Assessment](https://ieeexplore.ieee.org/document/9681908)
+
+[Semi-Supervised Action Quality Assessment with Self-Supervised Segment Feature Recovery](https://ieeexplore.ieee.org/document/9682696)
+
 [Multi-Angle Projection Based Blind Omnidirectional Image Quality Assessment](https://ieeexplore.ieee.org/document/9614114)
 
 [Spatiotemporal Representation Learning for Blind Video Quality Assessment](https://ieeexplore.ieee.org/document/9546044/)
@@ -253,6 +257,8 @@ Early Access
 [Generalizable No-Reference Image Quality Assessment via Deep Meta-learning](https://ieeexplore.ieee.org/document/9405680)
 
 [Quality Assessment of Screen Content Images in Wavelet Domain](https://ieeexplore.ieee.org/document/9382337)
+
+2022
 
 [Viewport-based Omnidirectional Video Quality Assessment: Database, Modeling and Inference](https://ieeexplore.ieee.org/document/9349097)
 
