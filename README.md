@@ -143,8 +143,6 @@ Early Access
 
 [List-wise Rank Learning for Stereoscopic Image Retargeting Quality Assessment](https://ieeexplore.ieee.org/document/9388879/)
 
-[Motion Blur Removal with Quality Assessment Guidance](https://ieeexplore.ieee.org/document/9385903)
-
 [Blind Stereoscopic Image Quality Evaluator based on Binocular Semantic and Quality Channels](https://ieeexplore.ieee.org/document/9380504)
 
 2022
@@ -152,6 +150,8 @@ Early Access
 [Quality Assessment for Omnidirectional Video: A Spatio-Temporal Distortion Modeling Approach](https://ieeexplore.ieee.org/document/9296376)
 
 2021
+
+[Motion Blur Removal with Quality Assessment Guidance](https://ieeexplore.ieee.org/document/9385903)
 
 [TTL-IQA: Transitive Transfer Learning based no-reference Image Quality Assessment](https://ieeexplore.ieee.org/document/9271914)
 
