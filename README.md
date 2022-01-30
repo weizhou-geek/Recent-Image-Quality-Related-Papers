@@ -147,6 +147,8 @@ Early Access
 
 [Blind Stereoscopic Image Quality Evaluator based on Binocular Semantic and Quality Channels](https://ieeexplore.ieee.org/document/9380504)
 
+2022
+
 [Quality Assessment for Omnidirectional Video: A Spatio-Temporal Distortion Modeling Approach](https://ieeexplore.ieee.org/document/9296376)
 
 2021
