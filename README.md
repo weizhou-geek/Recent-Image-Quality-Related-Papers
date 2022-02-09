@@ -12,6 +12,10 @@ Early Access
 
 2022
 
+[Evaluating Quantitative Metrics of Tone-Mapped Images](https://ieeexplore.ieee.org/document/9700764)
+
+[Stretching Artifacts Identification for Quality Assessment of 3D-Synthesized Views](https://ieeexplore.ieee.org/document/9697977)
+
 [VCRNet: Visual Compensation Restoration Network for No-Reference Image Quality Assessment](https://ieeexplore.ieee.org/document/9694502)
 
 [Quality Assessment of DIBR-synthesized views based on Sparsity of Difference of Closings and Difference of Gaussians](https://ieeexplore.ieee.org/document/9673122)
