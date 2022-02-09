@@ -264,9 +264,9 @@ Early Access
 
 [Generalizable No-Reference Image Quality Assessment via Deep Meta-learning](https://ieeexplore.ieee.org/document/9405680)
 
-[Quality Assessment of Screen Content Images in Wavelet Domain](https://ieeexplore.ieee.org/document/9382337)
-
 2022
+
+[Quality Assessment of Screen Content Images in Wavelet Domain](https://ieeexplore.ieee.org/document/9382337)
 
 [Viewport-based Omnidirectional Video Quality Assessment: Database, Modeling and Inference](https://ieeexplore.ieee.org/document/9349097)
 
