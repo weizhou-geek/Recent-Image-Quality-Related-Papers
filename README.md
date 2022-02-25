@@ -121,6 +121,8 @@ Early Access
 
 Early Access
 
+[GraphIQA: Learning Distortion Graph Representations for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9720138)
+
 [No-Reference Light Field Image Quality Assessment Using Four-Dimensional Sparse Transform](https://ieeexplore.ieee.org/document/9613753)
 
 [CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360 VR Videos](https://ieeexplore.ieee.org/document/9599346/)
