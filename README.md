@@ -10,7 +10,7 @@ Early Access
 
 [Perceptually Unimportant Information Reduction and Cosine Similarity-based Quality Assessment of 3D-Synthesized Images](https://ieeexplore.ieee.org/document/9714223)
 
-[Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874/)
+[Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
 
 2022
 
@@ -32,19 +32,19 @@ Early Access
 
 2021
 
-[Image Defogging Quality Assessment: Real-World Database and Method](https://ieeexplore.ieee.org/document/9244631/)
+[Image Defogging Quality Assessment: Real-World Database and Method](https://ieeexplore.ieee.org/document/9244631)
 
-[Quality Assessment of Free-Viewpoint Videos by Quantifying the Elastic Changes of Multi-Scale Motion Trajectories](https://ieeexplore.ieee.org/document/9262019/)
+[Quality Assessment of Free-Viewpoint Videos by Quantifying the Elastic Changes of Multi-Scale Motion Trajectories](https://ieeexplore.ieee.org/document/9262019)
 
-[Perceptual Video Quality Prediction Emphasizing Chroma Distortions](https://ieeexplore.ieee.org/document/9298463/)
+[Perceptual Video Quality Prediction Emphasizing Chroma Distortions](https://ieeexplore.ieee.org/document/9298463)
 
-[Cubemap-Based Perception-Driven Blind Quality Assessment for 360-degree Images](https://ieeexplore.ieee.org/document/9334423/)
+[Cubemap-Based Perception-Driven Blind Quality Assessment for 360-degree Images](https://ieeexplore.ieee.org/document/9334423)
 
 [Superpixel-Based Quality Assessment of Multi-Exposure Image Fusion for Both Static and Dynamic Scenes](https://ieeexplore.ieee.org/document/9337173)
 
-[SSIM Compliant Modeling Framework With Denoising and Deblurring Applications](https://ieeexplore.ieee.org/document/9337182/)
+[SSIM Compliant Modeling Framework With Denoising and Deblurring Applications](https://ieeexplore.ieee.org/document/9337182)
 
-[Uncertainty-Aware Blind Image Quality Assessment in the Laboratory and Wild](https://ieeexplore.ieee.org/document/9369977/)
+[Uncertainty-Aware Blind Image Quality Assessment in the Laboratory and Wild](https://ieeexplore.ieee.org/document/9369977)
 
 [Blind Image Quality Assessment With Active Inference](https://ieeexplore.ieee.org/document/9376644)
 
@@ -52,11 +52,11 @@ Early Access
 
 [Towards Perceptually Optimized Adaptive Video Streaming-A Realistic Quality of Experience Database](https://ieeexplore.ieee.org/document/9409699)
 
-[No-Reference Screen Content Image Quality Assessment With Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9447183/)
+[No-Reference Screen Content Image Quality Assessment With Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9447183)
 
 [Subjective and Objective Quality Assessment of 2D and 3D Foveated Video Compression in Virtual Reality](https://ieeexplore.ieee.org/document/9454264)
 
-[No-Reference Quality Assessment for Screen Content Images Using Visual Edge Model and AdaBoosting Neural Network](https://ieeexplore.ieee.org/document/9495102/)
+[No-Reference Quality Assessment for Screen Content Images Using Visual Edge Model and AdaBoosting Neural Network](https://ieeexplore.ieee.org/document/9495102)
 
 [ST-GREED: Space-Time Generalized Entropic Differences for Frame Rate Dependent Video Quality Prediction](https://ieeexplore.ieee.org/document/9524440)
 
@@ -104,7 +104,7 @@ Early Access
 
 [No-Reference Image Quality Assessment: An Attention Driven Approach](https://ieeexplore.ieee.org/document/9088237)
 
-[Dehazing Evaluation: Real-World Benchmark Datasets, Criteria, and Baselines](https://ieeexplore.ieee.org/document/9099036/)
+[Dehazing Evaluation: Real-World Benchmark Datasets, Criteria, and Baselines](https://ieeexplore.ieee.org/document/9099036)
 
 [End-to-End Blind Image Quality Prediction With Cascaded Deep Neural Network](https://ieeexplore.ieee.org/document/9121773)
 
@@ -125,19 +125,19 @@ Early Access
 
 [No-Reference Light Field Image Quality Assessment Using Four-Dimensional Sparse Transform](https://ieeexplore.ieee.org/document/9613753)
 
-[CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360 VR Videos](https://ieeexplore.ieee.org/document/9599346/)
+[CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360 VR Videos](https://ieeexplore.ieee.org/document/9599346)
 
 [User-generated Video Quality Assessment: A Subjective and Objective Study](https://ieeexplore.ieee.org/document/9594705)
 
-[Perceptual Quality Assessment of Cartoon Images](https://ieeexplore.ieee.org/document/9585540/)
+[Perceptual Quality Assessment of Cartoon Images](https://ieeexplore.ieee.org/document/9585540)
 
 [Semi-supervised Adversarial Learning for Attribute-Aware Photo Aesthetic Assessment](https://ieeexplore.ieee.org/document/9563269)
 
 [A Novel Rank Learning Based No-Reference Image Quality Assessment Method](https://ieeexplore.ieee.org/document/9548827)
 
-[Video Quality Assessment with Serial Dependence Modeling](https://ieeexplore.ieee.org/document/9522100/)
+[Video Quality Assessment with Serial Dependence Modeling](https://ieeexplore.ieee.org/document/9522100)
 
-[Learning-Based Quality Assessment for Image Super-Resolution](https://ieeexplore.ieee.org/document/9512504/)
+[Learning-Based Quality Assessment for Image Super-Resolution](https://ieeexplore.ieee.org/document/9512504)
 
 [Objective Quality Assessment of Lenslet Light Field Image Based on Focus Stack](https://ieeexplore.ieee.org/document/9483691)
 
@@ -149,7 +149,7 @@ Early Access
 
 [Underwater Image Quality Assessment: Subjective and Objective Methods](https://ieeexplore.ieee.org/document/9410381)
 
-[List-wise Rank Learning for Stereoscopic Image Retargeting Quality Assessment](https://ieeexplore.ieee.org/document/9388879/)
+[List-wise Rank Learning for Stereoscopic Image Retargeting Quality Assessment](https://ieeexplore.ieee.org/document/9388879)
 
 [Blind Stereoscopic Image Quality Evaluator based on Binocular Semantic and Quality Channels](https://ieeexplore.ieee.org/document/9380504)
 
@@ -181,21 +181,21 @@ Early Access
 
 [Measuring Coarse-to-Fine Texture and Geometric Distortions for Quality Assessment of DIBR-Synthesized Images](https://ieeexplore.ieee.org/document/9091246)
 
-[BVI-SynTex: A Synthetic Video Texture Dataset for Video Compression and Quality Assessment](https://ieeexplore.ieee.org/document/9016124/)
+[BVI-SynTex: A Synthetic Video Texture Dataset for Video Compression and Quality Assessment](https://ieeexplore.ieee.org/document/9016124)
 
-[Quality Index for View Synthesis by Measuring Instance Degradation and Global Appearance](https://ieeexplore.ieee.org/document/9035472/)
+[Quality Index for View Synthesis by Measuring Instance Degradation and Global Appearance](https://ieeexplore.ieee.org/document/9035472)
 
-[A Physiology-Based QoE Comparison of Interactive Augmented Reality, Virtual Reality and Tablet-Based Applications](https://ieeexplore.ieee.org/document/9042281/)
+[A Physiology-Based QoE Comparison of Interactive Augmented Reality, Virtual Reality and Tablet-Based Applications](https://ieeexplore.ieee.org/document/9042281)
 
 [Beyond Vision: A Multimodal Recurrent Attention Convolutional Neural Network for Unified Image Aesthetic Prediction Tasks](https://ieeexplore.ieee.org/document/9057597)
 
-[Exploiting Local Degradation Characteristics and Global Statistical Properties for Blind Quality Assessment of Tone-Mapped HDR Images](https://ieeexplore.ieee.org/document/9064671/)
+[Exploiting Local Degradation Characteristics and Global Statistical Properties for Blind Quality Assessment of Tone-Mapped HDR Images](https://ieeexplore.ieee.org/document/9064671)
 
-[Panoramic Video Quality Assessment Based on Non-Local Spherical CNN](https://ieeexplore.ieee.org/document/9076835/)
+[Panoramic Video Quality Assessment Based on Non-Local Spherical CNN](https://ieeexplore.ieee.org/document/9076835)
 
-[Blind Quality Assessment for Tone-Mapped Images by Analysis of Gradient and Chromatic Statistics](https://ieeexplore.ieee.org/document/9082863/)
+[Blind Quality Assessment for Tone-Mapped Images by Analysis of Gradient and Chromatic Statistics](https://ieeexplore.ieee.org/document/9082863)
 
-[Semi-Reference Sonar Image Quality Assessment Based on Task and Visual Perception](https://ieeexplore.ieee.org/document/9082850/)
+[Semi-Reference Sonar Image Quality Assessment Based on Task and Visual Perception](https://ieeexplore.ieee.org/document/9082850)
 
 [Blind Image Quality Assessment Based on Multi-scale KLT](https://ieeexplore.ieee.org/document/9113755)
 
@@ -207,7 +207,7 @@ Early Access
 
 [DeepQoE: A Multimodal Learning Framework for Video Quality of Experience (QoE) Prediction](https://ieeexplore.ieee.org/document/8999528)
 
-[Learning Local Quality-Aware Structures of Salient Regions for Stereoscopic Images via Deep Neural Networks](https://ieeexplore.ieee.org/document/8955955/)
+[Learning Local Quality-Aware Structures of Salient Regions for Stereoscopic Images via Deep Neural Networks](https://ieeexplore.ieee.org/document/8955955)
 
 [Deep Multimodality Learning for UAV Video Aesthetic Quality Assessment](https://ieeexplore.ieee.org/document/8936378)
 
@@ -225,7 +225,7 @@ Early Access
 
 [Vibrotactile Quality Assessment: Hybrid Metric Design Based on SNR and SSIM](https://ieeexplore.ieee.org/document/8807345)
 
-[An EEG-Based Study on Perception of Video Distortion Under Various Content Motion Conditions](https://ieeexplore.ieee.org/document/8793159/)
+[An EEG-Based Study on Perception of Video Distortion Under Various Content Motion Conditions](https://ieeexplore.ieee.org/document/8793159)
 
 [Training Objective Image and Video Quality Estimators Using Multiple Databases](https://ieeexplore.ieee.org/document/8801886)
 
@@ -244,7 +244,7 @@ Early Access
 
 [Multi-Angle Projection Based Blind Omnidirectional Image Quality Assessment](https://ieeexplore.ieee.org/document/9614114)
 
-[Spatiotemporal Representation Learning for Blind Video Quality Assessment](https://ieeexplore.ieee.org/document/9546044/)
+[Spatiotemporal Representation Learning for Blind Video Quality Assessment](https://ieeexplore.ieee.org/document/9546044)
 
 [LGGD+: Image Retargeting Quality Assessment by Measuring Local and Global Geometric Distortions](https://ieeexplore.ieee.org/document/9537816)
 
@@ -280,7 +280,7 @@ Early Access
 
 [PQA-Net: Deep No Reference Point Cloud Quality Assessment via Multi-view Projection](https://ieeexplore.ieee.org/document/9496633)
 
-[MMMNet: An End-to-End Multi-task Deep Convolution Neural Network with Multi-scale and Multi-hierarchy Fusion for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9337868/)
+[MMMNet: An End-to-End Multi-task Deep Convolution Neural Network with Multi-scale and Multi-hierarchy Fusion for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9337868)
 
 [Modeling the Perceptual Quality for Viewport-Adaptive Omnidirectional Video Streaming Considering Dynamic Quality Boundary Artifact](https://ieeexplore.ieee.org/document/9317771)
 
