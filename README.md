@@ -123,6 +123,8 @@ Early Access
 
 Early Access
 
+[Quantitative Comparison of Point Cloud Compression Algorithms with PCC Arena](https://ieeexplore.ieee.org/document/9722998)
+
 [GraphIQA: Learning Distortion Graph Representations for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9720138)
 
 [No-Reference Light Field Image Quality Assessment Using Four-Dimensional Sparse Transform](https://ieeexplore.ieee.org/document/9613753)
