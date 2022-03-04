@@ -8,11 +8,13 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
-[Perceptually Unimportant Information Reduction and Cosine Similarity-based Quality Assessment of 3D-Synthesized Images](https://ieeexplore.ieee.org/document/9714223)
+[Single Image Super-Resolution Quality Assessment: A Real-World Dataset, Subjective Studies, and An Objective Metric](https://ieeexplore.ieee.org/document/9727079)
 
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
 
 2022
+
+[Perceptually Unimportant Information Reduction and Cosine Similarity-based Quality Assessment of 3D-Synthesized Images](https://ieeexplore.ieee.org/document/9714223)
 
 [Evaluating Quantitative Metrics of Tone-Mapped Images](https://ieeexplore.ieee.org/document/9700764)
 
