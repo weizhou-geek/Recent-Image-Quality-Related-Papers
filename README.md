@@ -266,13 +266,13 @@ Early Access
 
 [Omnidirectional Image Quality Assessment by Distortion Discrimination Assisted Multi-Stream Network](https://ieeexplore.ieee.org/document/9432940)
 
+2022
+
 [Deep Learning Based Just Noticeable Difference and Perceptual Quality Prediction Models for Compressed Video](https://ieeexplore.ieee.org/document/9417228)
 
 [Reference-free DIBR-synthesized Video Quality Metric in Spatial and Temporal Domains](https://ieeexplore.ieee.org/document/9408663)
 
 [Generalizable No-Reference Image Quality Assessment via Deep Meta-learning](https://ieeexplore.ieee.org/document/9405680)
-
-2022
 
 [Quality Assessment of Screen Content Images in Wavelet Domain](https://ieeexplore.ieee.org/document/9382337)
 
