@@ -153,13 +153,13 @@ Early Access
 
 [Combining Retargeting Quality and Depth Perception Measures for Quality Evaluation of Retargeted Stereopairs](https://ieeexplore.ieee.org/document/9435954)
 
+2022
+
 [Underwater Image Quality Assessment: Subjective and Objective Methods](https://ieeexplore.ieee.org/document/9410381)
 
 [List-wise Rank Learning for Stereoscopic Image Retargeting Quality Assessment](https://ieeexplore.ieee.org/document/9388879)
 
 [Blind Stereoscopic Image Quality Evaluator based on Binocular Semantic and Quality Channels](https://ieeexplore.ieee.org/document/9380504)
-
-2022
 
 [Quality Assessment for Omnidirectional Video: A Spatio-Temporal Distortion Modeling Approach](https://ieeexplore.ieee.org/document/9296376)
 
