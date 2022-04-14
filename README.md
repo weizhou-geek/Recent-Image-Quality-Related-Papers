@@ -244,6 +244,12 @@ Early Access
 
 Early Access
 
+[Depth Perception Assessment of 3D Videos Based on Stereoscopic and Spatial Orientation Structural Features](https://ieeexplore.ieee.org/document/9751756)
+
+[Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric](https://ieeexplore.ieee.org/document/9749233)
+
+[Blindly Assess Quality of In-the-Wild Videos via Quality-aware Pre-training and Motion Perception](https://ieeexplore.ieee.org/document/9748114)
+
 [Dual-Channel Multi-Task CNN for No-Reference Screen Content Image Quality Assessment](https://ieeexplore.ieee.org/document/9681908)
 
 [Semi-Supervised Action Quality Assessment with Self-Supervised Segment Feature Recovery](https://ieeexplore.ieee.org/document/9682696)
@@ -260,6 +266,8 @@ Early Access
 
 [Fine-Grained Image Quality Assessment: A Revisit and Further Thinking](https://ieeexplore.ieee.org/document/9481243)
 
+2022
+
 [Learning Generalized Spatial-Temporal Deep Feature Representation for No-Reference Video Quality Assessment](https://ieeexplore.ieee.org/document/9452150)
 
 [A high visual quality color image reversible data hiding scheme based on B-R-G embedding principle and CIEDE2000 assessment metric](https://ieeexplore.ieee.org/document/9443216)
@@ -267,8 +275,6 @@ Early Access
 [No-Reference Quality Assessment for 360-degree Images by Analysis of Multifrequency Information and Local-global Naturalness](https://ieeexplore.ieee.org/document/9432968)
 
 [Omnidirectional Image Quality Assessment by Distortion Discrimination Assisted Multi-Stream Network](https://ieeexplore.ieee.org/document/9432940)
-
-2022
 
 [Deep Learning Based Just Noticeable Difference and Perceptual Quality Prediction Models for Compressed Video](https://ieeexplore.ieee.org/document/9417228)
 
