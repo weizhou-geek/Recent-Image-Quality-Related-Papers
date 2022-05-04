@@ -125,6 +125,10 @@ Early Access
 
 Early Access
 
+[Pyramid Feature Aggregation for Hierarchical Quality Prediction of Stitched Panoramic Images](https://ieeexplore.ieee.org/document/9767701)
+
+[Visibility and Distortion Measurement for No-Reference Dehazed Image Quality Assessment via Complex Contourlet Transform](https://ieeexplore.ieee.org/document/9760039)
+
 [Quantitative Comparison of Point Cloud Compression Algorithms with PCC Arena](https://ieeexplore.ieee.org/document/9722998)
 
 [GraphIQA: Learning Distortion Graph Representations for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9720138)
