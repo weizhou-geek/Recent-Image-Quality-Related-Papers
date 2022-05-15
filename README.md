@@ -272,9 +272,9 @@ Early Access
 
 [Blind Image Quality Index for Authentic Distortions With Local and Global Deep Feature Aggregation](https://ieeexplore.ieee.org/document/9536693)
 
-[Fine-Grained Image Quality Assessment: A Revisit and Further Thinking](https://ieeexplore.ieee.org/document/9481243)
-
 2022
+
+[Fine-Grained Image Quality Assessment: A Revisit and Further Thinking](https://ieeexplore.ieee.org/document/9481243)
 
 [Learning Generalized Spatial-Temporal Deep Feature Representation for No-Reference Video Quality Assessment](https://ieeexplore.ieee.org/document/9452150)
 
