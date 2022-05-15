@@ -157,9 +157,9 @@ Early Access
 
 [Subjective evaluation of visual quality and simulator sickness of short 360 videos: ITU-T Rec. P.919](https://ieeexplore.ieee.org/document/9474501)
 
-[Combining Retargeting Quality and Depth Perception Measures for Quality Evaluation of Retargeted Stereopairs](https://ieeexplore.ieee.org/document/9435954)
-
 2022
+
+[Combining Retargeting Quality and Depth Perception Measures for Quality Evaluation of Retargeted Stereopairs](https://ieeexplore.ieee.org/document/9435954)
 
 [Underwater Image Quality Assessment: Subjective and Objective Methods](https://ieeexplore.ieee.org/document/9410381)
 
