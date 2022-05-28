@@ -133,6 +133,8 @@ Early Access
 
 Early Access
 
+[No-reference Bitstream-layer Model for Perceptual Quality Assessment of V-PCC Encoded Point Clouds](https://ieeexplore.ieee.org/document/9782549)
+
 [Pyramid Feature Aggregation for Hierarchical Quality Prediction of Stitched Panoramic Images](https://ieeexplore.ieee.org/document/9767701)
 
 [Visibility and Distortion Measurement for No-Reference Dehazed Image Quality Assessment via Complex Contourlet Transform](https://ieeexplore.ieee.org/document/9760039)
