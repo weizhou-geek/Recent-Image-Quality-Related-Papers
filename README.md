@@ -16,6 +16,8 @@ Early Access
 
 2022
 
+[Video Quality Model of Compression, Resolution and Frame Rate Adaptation Based on Space-Time Regularities](https://ieeexplore.ieee.org/document/9775614)
+
 [Fine-grained Image Quality Caption with Hierarchical Semantics Degradation](https://ieeexplore.ieee.org/document/9769934)
 
 [A No-Reference Stereoscopic Image Quality Assessment Network Based on Binocular Interaction and Fusion Mechanisms](https://ieeexplore.ieee.org/document/9754226)
