@@ -258,6 +258,8 @@ Early Access
 
 Early Access
 
+[Study of Subjective and Objective Quality Assessment of Night-time Videos](https://ieeexplore.ieee.org/document/9780386)
+
 [VSOIQE: A Novel Viewport-based Stitched 360° Omnidirectional Image Quality Evaluator](https://ieeexplore.ieee.org/document/9766332)
 
 [Depth Perception Assessment of 3D Videos Based on Stereoscopic and Spatial Orientation Structural Features](https://ieeexplore.ieee.org/document/9751756)
