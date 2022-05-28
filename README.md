@@ -8,11 +8,15 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
-[Fine-grained Image Quality Caption with Hierarchical Semantics Degradation](https://ieeexplore.ieee.org/document/9769934)
+[Subjective and Objective Quality of Experience of Free Viewpoint Videos](https://ieeexplore.ieee.org/document/9784402)
+
+[A Spatial and Geometry Feature-Based Quality Assessment Model for the Light Field Images](https://ieeexplore.ieee.org/document/9779992)
 
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
 
 2022
+
+[Fine-grained Image Quality Caption with Hierarchical Semantics Degradation](https://ieeexplore.ieee.org/document/9769934)
 
 [A No-Reference Stereoscopic Image Quality Assessment Network Based on Binocular Interaction and Fusion Mechanisms](https://ieeexplore.ieee.org/document/9754226)
 
