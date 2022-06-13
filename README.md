@@ -258,6 +258,12 @@ Early Access
 
 Early Access
 
+[Convolutional Neural Networks For Omnidirectional Image Quality Assessment: A Benchmark](https://ieeexplore.ieee.org/document/9791414)
+
+[Blind Image Quality Assessment for Authentic Distortions by Intermediary Enhancement and Iterative Training](https://ieeexplore.ieee.org/document/9786803)
+
+[IV-PSNR – the objective quality metric for immersive video applications](https://ieeexplore.ieee.org/document/9785987)
+
 [Study of Subjective and Objective Quality Assessment of Night-time Videos](https://ieeexplore.ieee.org/document/9780386)
 
 [VSOIQE: A Novel Viewport-based Stitched 360° Omnidirectional Image Quality Evaluator](https://ieeexplore.ieee.org/document/9766332)
