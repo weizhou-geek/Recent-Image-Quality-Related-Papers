@@ -8,13 +8,13 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
-[Subjective and Objective Quality of Experience of Free Viewpoint Videos](https://ieeexplore.ieee.org/document/9784402)
-
-[A Spatial and Geometry Feature-Based Quality Assessment Model for the Light Field Images](https://ieeexplore.ieee.org/document/9779992)
-
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
 
 2022
+
+[Subjective and Objective Quality of Experience of Free Viewpoint Videos](https://ieeexplore.ieee.org/document/9784402)
+
+[A Spatial and Geometry Feature-Based Quality Assessment Model for the Light Field Images](https://ieeexplore.ieee.org/document/9779992)
 
 [Video Quality Model of Compression, Resolution and Frame Rate Adaptation Based on Space-Time Regularities](https://ieeexplore.ieee.org/document/9775614)
 
