@@ -12,6 +12,8 @@ Early Access
 
 2022
 
+[Image Quality Assessment Using Contrastive Learning](https://ieeexplore.ieee.org/document/9796010)
+
 [Subjective and Objective Quality of Experience of Free Viewpoint Videos](https://ieeexplore.ieee.org/document/9784402)
 
 [A Spatial and Geometry Feature-Based Quality Assessment Model for the Light Field Images](https://ieeexplore.ieee.org/document/9779992)
