@@ -393,6 +393,17 @@ Early Access
 
 1. IEEE Conference on Computer Vision and Pattern Recognition
 
+2022
+
+[FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment]
+(https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_FineDiving_A_Fine-Grained_Dataset_for_Procedure-Aware_Action_Quality_Assessment_CVPR_2022_paper.pdf)
+
+[Incorporating Semi-Supervised and Positive-Unlabeled Learning for Boosting Full Reference Image Quality Assessment]
+(https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Incorporating_Semi-Supervised_and_Positive-Unlabeled_Learning_for_Boosting_Full_Reference_Image_CVPR_2022_paper.pdf)
+
+[No-Reference Point Cloud Quality Assessment via Domain Adaptation]
+(https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_No-Reference_Point_Cloud_Quality_Assessment_via_Domain_Adaptation_CVPR_2022_paper.pdf)
+
 2021
 
 [Rich Features for Perceptual Quality Assessment of UGC Videos](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Rich_Features_for_Perceptual_Quality_Assessment_of_UGC_Videos_CVPR_2021_paper.pdf)
