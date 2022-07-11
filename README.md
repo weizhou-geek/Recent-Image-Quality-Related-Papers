@@ -137,6 +137,10 @@ Early Access
 
 Early Access
 
+[End-to-End Blind Video Quality Assessment Based on Visual and Memory Attention Modeling](https://ieeexplore.ieee.org/document/9817621)
+
+[An Underwater Image Quality Assessment Metric](https://ieeexplore.ieee.org/document/9811407)
+
 [No-reference Bitstream-layer Model for Perceptual Quality Assessment of V-PCC Encoded Point Clouds](https://ieeexplore.ieee.org/document/9782549)
 
 [Pyramid Feature Aggregation for Hierarchical Quality Prediction of Stitched Panoramic Images](https://ieeexplore.ieee.org/document/9767701)
