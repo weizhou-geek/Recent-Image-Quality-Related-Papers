@@ -266,6 +266,10 @@ Early Access
 
 Early Access
 
+[DACNN: Blind Image Quality Assessment via A Distortion-Aware Convolutional Neural Network](https://ieeexplore.ieee.org/document/9817377)
+
+[No-Reference Quality Assessment for 3D Colored Point Cloud and Mesh Models](https://ieeexplore.ieee.org/document/9810024)
+
 [Convolutional Neural Networks For Omnidirectional Image Quality Assessment: A Benchmark](https://ieeexplore.ieee.org/document/9791414)
 
 [Blind Image Quality Assessment for Authentic Distortions by Intermediary Enhancement and Iterative Training](https://ieeexplore.ieee.org/document/9786803)
