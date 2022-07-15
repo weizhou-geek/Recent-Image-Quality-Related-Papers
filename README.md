@@ -137,6 +137,8 @@ Early Access
 
 Early Access
 
+[LIQA: Lifelong Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9830062)
+
 [End-to-End Blind Video Quality Assessment Based on Visual and Memory Attention Modeling](https://ieeexplore.ieee.org/document/9817621)
 
 [An Underwater Image Quality Assessment Metric](https://ieeexplore.ieee.org/document/9811407)
@@ -165,13 +167,13 @@ Early Access
 
 [Video Quality Assessment with Serial Dependence Modeling](https://ieeexplore.ieee.org/document/9522100)
 
+2022
+
 [Learning-Based Quality Assessment for Image Super-Resolution](https://ieeexplore.ieee.org/document/9512504)
 
 [Objective Quality Assessment of Lenslet Light Field Image Based on Focus Stack](https://ieeexplore.ieee.org/document/9483691)
 
 [Quality evaluation of holographic images coded with standard codecs](https://ieeexplore.ieee.org/document/9479782)
-
-2022
 
 [Subjective evaluation of visual quality and simulator sickness of short 360 videos: ITU-T Rec. P.919](https://ieeexplore.ieee.org/document/9474501)
 
