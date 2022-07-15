@@ -268,6 +268,8 @@ Early Access
 
 Early Access
 
+[Perceptual Hashing with Complementary Color Wavelet Transform and Compressed Sensing for Reduced-Reference Image Quality Assessment](https://ieeexplore.ieee.org/document/9828495)
+
 [DACNN: Blind Image Quality Assessment via A Distortion-Aware Convolutional Neural Network](https://ieeexplore.ieee.org/document/9817377)
 
 [No-Reference Quality Assessment for 3D Colored Point Cloud and Mesh Models](https://ieeexplore.ieee.org/document/9810024)
