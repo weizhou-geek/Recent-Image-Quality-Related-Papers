@@ -8,11 +8,11 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
-[FOVQA: Blind Foveated Video Quality Assessment](https://ieeexplore.ieee.org/document/9810800)
-
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
 
 2022
+
+[FOVQA: Blind Foveated Video Quality Assessment](https://ieeexplore.ieee.org/document/9810800)
 
 [Image Quality Assessment Using Contrastive Learning](https://ieeexplore.ieee.org/document/9796010)
 
