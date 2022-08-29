@@ -12,6 +12,10 @@ Early Access
 
 2022
 
+[UIF: An Objective Quality Assessment for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/9855418)
+
+[Composition and Style Attributes Guided Image Aesthetic Assessment](https://ieeexplore.ieee.org/document/9837802)
+
 [FOVQA: Blind Foveated Video Quality Assessment](https://ieeexplore.ieee.org/document/9810800)
 
 [Image Quality Assessment Using Contrastive Learning](https://ieeexplore.ieee.org/document/9796010)
