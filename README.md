@@ -14,6 +14,8 @@ Early Access
 
 2022
 
+[No-Reference Image Quality Assessment by Hallucinating Pristine Features](https://ieeexplore.ieee.org/document/9894272)
+
 [UIF: An Objective Quality Assessment for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/9855418)
 
 [Composition and Style Attributes Guided Image Aesthetic Assessment](https://ieeexplore.ieee.org/document/9837802)
