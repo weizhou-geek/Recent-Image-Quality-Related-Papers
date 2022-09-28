@@ -145,6 +145,14 @@ Early Access
 
 Early Access
 
+[Semi-Supervised Authentically Distorted Image Quality Assessment with Consistency-Preserving Dual-Branch Convolutional Neural Network](https://ieeexplore.ieee.org/document/9903545)
+
+[Context Region Identification based Quality Assessment of 3D Synthesized Views](https://ieeexplore.ieee.org/document/9891833)
+
+[Generalized Score Distribution: A Two-Parameter Discrete Distribution Accurately Describing Responses From Quality of Experience Subjective Experiments](https://ieeexplore.ieee.org/document/9888234)
+
+[RV-TMO: Large-Scale Dataset for Subjective Quality Assessment of Tone Mapped Images](https://ieeexplore.ieee.org/document/9872141)
+
 [LIQA: Lifelong Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9830062)
 
 [End-to-End Blind Video Quality Assessment Based on Visual and Memory Attention Modeling](https://ieeexplore.ieee.org/document/9817621)
