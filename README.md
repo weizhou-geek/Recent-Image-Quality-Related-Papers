@@ -284,6 +284,10 @@ Early Access
 
 Early Access
 
+[Quality Assessment of UGC Videos Based on Decomposition and Recomposition](https://ieeexplore.ieee.org/document/9900334)
+
+[Learning Spatiotemporal Interactions for User-Generated Video Quality Assessment](https://ieeexplore.ieee.org/document/9896907)
+
 [Perceptual Hashing with Complementary Color Wavelet Transform and Compressed Sensing for Reduced-Reference Image Quality Assessment](https://ieeexplore.ieee.org/document/9828495)
 
 [DACNN: Blind Image Quality Assessment via A Distortion-Aware Convolutional Neural Network](https://ieeexplore.ieee.org/document/9817377)
