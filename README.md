@@ -8,11 +8,11 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
-[Screen Content Video Quality Assessment Model Using Hybrid Spatiotemporal Features](https://ieeexplore.ieee.org/document/9896779)
-
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
 
 2022
+
+[Screen Content Video Quality Assessment Model Using Hybrid Spatiotemporal Features](https://ieeexplore.ieee.org/document/9896779)
 
 [No-Reference Image Quality Assessment by Hallucinating Pristine Features](https://ieeexplore.ieee.org/document/9894272)
 
