@@ -284,6 +284,8 @@ Early Access
 
 Early Access
 
+[Generation-based Joint Luminance-Chrominance Learning for Underwater Image Quality Assessment](https://ieeexplore.ieee.org/document/9913502)
+
 [Quality Assessment of UGC Videos Based on Decomposition and Recomposition](https://ieeexplore.ieee.org/document/9900334)
 
 [Learning Spatiotemporal Interactions for User-Generated Video Quality Assessment](https://ieeexplore.ieee.org/document/9896907)
