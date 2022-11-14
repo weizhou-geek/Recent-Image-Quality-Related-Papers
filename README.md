@@ -8,6 +8,8 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
+[Confusing Image Quality Assessment: Towards Better Augmented Reality Experience](https://ieeexplore.ieee.org/document/9946999)
+
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
 
 2022
