@@ -147,6 +147,8 @@ Early Access
 
 Early Access
 
+[Blind Image Quality Assessment Via Cross-View Consistency](https://ieeexplore.ieee.org/document/9961939)
+
 [Semi-Supervised Authentically Distorted Image Quality Assessment with Consistency-Preserving Dual-Branch Convolutional Neural Network](https://ieeexplore.ieee.org/document/9903545)
 
 [Context Region Identification based Quality Assessment of 3D Synthesized Views](https://ieeexplore.ieee.org/document/9891833)
