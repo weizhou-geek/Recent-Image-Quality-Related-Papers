@@ -147,6 +147,8 @@ Early Access
 
 Early Access
 
+[Explainable and Generalizable Blind Image Quality Assessment via Semantic Attribute Reasoning](https://ieeexplore.ieee.org/document/9966848)
+
 [Blind Image Quality Assessment Via Cross-View Consistency](https://ieeexplore.ieee.org/document/9961939)
 
 [Semi-Supervised Authentically Distorted Image Quality Assessment with Consistency-Preserving Dual-Branch Convolutional Neural Network](https://ieeexplore.ieee.org/document/9903545)
