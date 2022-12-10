@@ -12,6 +12,8 @@ Early Access
 
 2022
 
+[Blind VQA on 360° Video via Progressively Learning from Pixels, Frames and Video](https://ieeexplore.ieee.org/document/9975252)
+
 [Confusing Image Quality Assessment: Towards Better Augmented Reality Experience](https://ieeexplore.ieee.org/document/9946999)
 
 [Screen Content Video Quality Assessment Model Using Hybrid Spatiotemporal Features](https://ieeexplore.ieee.org/document/9896779)
