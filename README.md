@@ -292,6 +292,12 @@ Early Access
 
 Early Access
 
+[Deep Quality Assessment of Compressed Videos: A Subjective and Objective Study](https://ieeexplore.ieee.org/document/9970717)
+
+[Dynamic Expert-Knowledge Ensemble for Generalizable Video Quality Assessment](https://ieeexplore.ieee.org/document/9966626)
+
+[Viewport-Sphere-Branch Network for Blind Quality Assessment of Stitched 360° Omnidirectional Images](https://ieeexplore.ieee.org/document/9964240)
+
 [Generation-based Joint Luminance-Chrominance Learning for Underwater Image Quality Assessment](https://ieeexplore.ieee.org/document/9913502)
 
 [Quality Assessment of UGC Videos Based on Decomposition and Recomposition](https://ieeexplore.ieee.org/document/9900334)
