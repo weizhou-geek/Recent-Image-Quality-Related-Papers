@@ -296,6 +296,10 @@ Early Access
 
 Early Access
 
+[Quality Evaluation of Arbitrary Style Transfer: Subjective Study and Objective Metric](https://ieeexplore.ieee.org/document/9994780)
+
+[Image Quality Score Distribution Prediction via Alpha Stable Model](https://ieeexplore.ieee.org/document/9989415)
+
 [Deep Quality Assessment of Compressed Videos: A Subjective and Objective Study](https://ieeexplore.ieee.org/document/9970717)
 
 [Dynamic Expert-Knowledge Ensemble for Generalizable Video Quality Assessment](https://ieeexplore.ieee.org/document/9966626)
