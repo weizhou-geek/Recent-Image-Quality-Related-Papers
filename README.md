@@ -312,33 +312,9 @@ Early Access
 
 [Learning Spatiotemporal Interactions for User-Generated Video Quality Assessment](https://ieeexplore.ieee.org/document/9896907)
 
-[Perceptual Hashing with Complementary Color Wavelet Transform and Compressed Sensing for Reduced-Reference Image Quality Assessment](https://ieeexplore.ieee.org/document/9828495)
-
-[DACNN: Blind Image Quality Assessment via A Distortion-Aware Convolutional Neural Network](https://ieeexplore.ieee.org/document/9817377)
-
-[No-Reference Quality Assessment for 3D Colored Point Cloud and Mesh Models](https://ieeexplore.ieee.org/document/9810024)
-
-[Convolutional Neural Networks For Omnidirectional Image Quality Assessment: A Benchmark](https://ieeexplore.ieee.org/document/9791414)
-
-[Blind Image Quality Assessment for Authentic Distortions by Intermediary Enhancement and Iterative Training](https://ieeexplore.ieee.org/document/9786803)
-
-[IV-PSNR – the objective quality metric for immersive video applications](https://ieeexplore.ieee.org/document/9785987)
-
-[Study of Subjective and Objective Quality Assessment of Night-time Videos](https://ieeexplore.ieee.org/document/9780386)
-
-[VSOIQE: A Novel Viewport-based Stitched 360° Omnidirectional Image Quality Evaluator](https://ieeexplore.ieee.org/document/9766332)
-
 [Depth Perception Assessment of 3D Videos Based on Stereoscopic and Spatial Orientation Structural Features](https://ieeexplore.ieee.org/document/9751756)
 
-[Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric](https://ieeexplore.ieee.org/document/9749233)
-
-[Blindly Assess Quality of In-the-Wild Videos via Quality-aware Pre-training and Motion Perception](https://ieeexplore.ieee.org/document/9748114)
-
-[Dual-Channel Multi-Task CNN for No-Reference Screen Content Image Quality Assessment](https://ieeexplore.ieee.org/document/9681908)
-
-[Semi-Supervised Action Quality Assessment with Self-Supervised Segment Feature Recovery](https://ieeexplore.ieee.org/document/9682696)
-
-[Multi-Angle Projection Based Blind Omnidirectional Image Quality Assessment](https://ieeexplore.ieee.org/document/9614114)
+2022
 
 [Spatiotemporal Representation Learning for Blind Video Quality Assessment](https://ieeexplore.ieee.org/document/9546044)
 
@@ -346,9 +322,33 @@ Early Access
 
 [Monocular and Binocular Interactions Oriented Deformable Convolutional Networks for Blind Quality Assessment of Stereoscopic Omnidirectional Images](https://ieeexplore.ieee.org/document/9536507)
 
-[Blind Image Quality Index for Authentic Distortions With Local and Global Deep Feature Aggregation](https://ieeexplore.ieee.org/document/9536693)
+[Multi-Angle Projection Based Blind Omnidirectional Image Quality Assessment](https://ieeexplore.ieee.org/document/9614114)
 
-2022
+[Dual-Channel Multi-Task CNN for No-Reference Screen Content Image Quality Assessment](https://ieeexplore.ieee.org/document/9681908)
+
+[Semi-Supervised Action Quality Assessment with Self-Supervised Segment Feature Recovery](https://ieeexplore.ieee.org/document/9682696)
+
+[Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric](https://ieeexplore.ieee.org/document/9749233)
+
+[Blindly Assess Quality of In-the-Wild Videos via Quality-aware Pre-training and Motion Perception](https://ieeexplore.ieee.org/document/9748114)
+
+[Study of Subjective and Objective Quality Assessment of Night-time Videos](https://ieeexplore.ieee.org/document/9780386)
+
+[VSOIQE: A Novel Viewport-based Stitched 360° Omnidirectional Image Quality Evaluator](https://ieeexplore.ieee.org/document/9766332)
+
+[No-Reference Quality Assessment for 3D Colored Point Cloud and Mesh Models](https://ieeexplore.ieee.org/document/9810024)
+
+[Blind Image Quality Assessment for Authentic Distortions by Intermediary Enhancement and Iterative Training](https://ieeexplore.ieee.org/document/9786803)
+
+[IV-PSNR – the objective quality metric for immersive video applications](https://ieeexplore.ieee.org/document/9785987)
+
+[Perceptual Hashing with Complementary Color Wavelet Transform and Compressed Sensing for Reduced-Reference Image Quality Assessment](https://ieeexplore.ieee.org/document/9828495)
+
+[DACNN: Blind Image Quality Assessment via A Distortion-Aware Convolutional Neural Network](https://ieeexplore.ieee.org/document/9817377)
+
+[Convolutional Neural Networks For Omnidirectional Image Quality Assessment: A Benchmark](https://ieeexplore.ieee.org/document/9791414)
+
+[Blind Image Quality Index for Authentic Distortions With Local and Global Deep Feature Aggregation](https://ieeexplore.ieee.org/document/9536693)
 
 [Fine-Grained Image Quality Assessment: A Revisit and Further Thinking](https://ieeexplore.ieee.org/document/9481243)
 
