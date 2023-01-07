@@ -10,9 +10,11 @@ Early Access
 
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
 
-2022
+2023
 
 [Blind VQA on 360° Video via Progressively Learning from Pixels, Frames and Video](https://ieeexplore.ieee.org/document/9975252)
+
+2022
 
 [Confusing Image Quality Assessment: Towards Better Augmented Reality Experience](https://ieeexplore.ieee.org/document/9946999)
 
