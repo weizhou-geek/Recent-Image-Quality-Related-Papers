@@ -153,6 +153,8 @@ Early Access
 
 Early Access
 
+[Forgetting to Remember: A Scalable Incremental Learning Framework for Cross-Task Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/10036133)
+
 [Knowledge-Guided Blind Image Quality Assessment With Few Training Samples](https://ieeexplore.ieee.org/document/10003665)
 
 [Explainable and Generalizable Blind Image Quality Assessment via Semantic Attribute Reasoning](https://ieeexplore.ieee.org/document/9966848)
