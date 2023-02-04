@@ -300,6 +300,8 @@ Early Access
 
 Early Access
 
+[High Dynamic Range Image Quality Assessment Based on Frequency Disparity](https://ieeexplore.ieee.org/document/10021986)
+
 [Quality Evaluation of Arbitrary Style Transfer: Subjective Study and Objective Metric](https://ieeexplore.ieee.org/document/9994780)
 
 [Image Quality Score Distribution Prediction via Alpha Stable Model](https://ieeexplore.ieee.org/document/9989415)
