@@ -153,6 +153,10 @@ Early Access
 
 Early Access
 
+[Visual Interaction Perceptual Network for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/10041721)
+
+[Coarse-to-fine Feedback Guidance Based Stereo Image Quality Assessment Considering Dominant Eye Fusion](https://ieeexplore.ieee.org/document/10036972)
+
 [Forgetting to Remember: A Scalable Incremental Learning Framework for Cross-Task Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/10036133)
 
 [Knowledge-Guided Blind Image Quality Assessment With Few Training Samples](https://ieeexplore.ieee.org/document/10003665)
