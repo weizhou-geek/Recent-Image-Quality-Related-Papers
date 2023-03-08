@@ -157,6 +157,8 @@ Early Access
 
 Early Access
 
+[Blind Dehazed Image Quality Assessment: A Deep CNN-Based Approach](https://ieeexplore.ieee.org/document/10058506)
+
 [Visual Interaction Perceptual Network for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/10041721)
 
 [Coarse-to-fine Feedback Guidance Based Stereo Image Quality Assessment Considering Dominant Eye Fusion](https://ieeexplore.ieee.org/document/10036972)
