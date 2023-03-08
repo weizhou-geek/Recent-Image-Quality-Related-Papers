@@ -12,6 +12,10 @@ Early Access
 
 2023
 
+[Bitstream-based Perceptual Quality Assessment of Compressed 3D Point Clouds](https://ieeexplore.ieee.org/document/10061856)
+
+[A Multiscale Approach to Deep Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/10056825)
+
 [Degraded Reference Image Quality Assessment](https://ieeexplore.ieee.org/document/10014662)
 
 [Blind VQA on 360° Video via Progressively Learning from Pixels, Frames and Video](https://ieeexplore.ieee.org/document/9975252)
