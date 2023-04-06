@@ -314,6 +314,8 @@ Early Access
 
 Early Access
 
+[Perceptual Quality Assessment of Enhanced Colonoscopy Images: A Benchmark Dataset and an Objective Method](https://ieeexplore.ieee.org/document/10078370)
+
 [DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment](https://ieeexplore.ieee.org/document/10054487)
 
 [EHNQ: Subjective and Objective Quality Evaluation of Enhanced Night-Time Images](https://ieeexplore.ieee.org/document/10045730)
