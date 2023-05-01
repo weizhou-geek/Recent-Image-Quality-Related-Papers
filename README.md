@@ -159,6 +159,8 @@ Early Access
 
 Early Access
 
+[Blind Quality Evaluator of Light Field Images by Group-Based Representations and Multiple Plane-Oriented Perceptual Characteristics](https://ieeexplore.ieee.org/document/10105489)
+
 [Deep Blind Image Quality Assessment Powered by Online Hard Example Mining](https://ieeexplore.ieee.org/document/10070789)
 
 [Blind Dehazed Image Quality Assessment: A Deep CNN-Based Approach](https://ieeexplore.ieee.org/document/10058506)
