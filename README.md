@@ -12,6 +12,8 @@ Early Access
 
 2023
 
+[Subjective and Objective Audio-Visual Quality Assessment for User Generated Content](https://ieeexplore.ieee.org/document/10177693)
+
 [Study of Subjective and Objective Quality Assessment of Mobile Cloud Gaming Videos](https://ieeexplore.ieee.org/document/10144608)
 
 [Study of Spatio-Temporal Modeling in Video Quality Assessment](https://ieeexplore.ieee.org/document/10120721)
