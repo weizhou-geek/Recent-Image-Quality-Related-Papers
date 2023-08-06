@@ -341,6 +341,14 @@ Early Access
 
 Early Access
 
+[Blind Image Quality Assessment based on Separate Representations and Adaptive Interaction of Content and Distortion](https://ieeexplore.ieee.org/document/10196496)
+
+[Light Field Image Quality Assessment Using Natural Scene Statistics and Texture Degradation](https://ieeexplore.ieee.org/document/10188405)
+
+[Blind Image Quality Assessment: A Fuzzy Neural Network for Opinion Score Distribution Prediction](https://ieeexplore.ieee.org/document/10184113)
+
+[Image Aesthetics Assessment with Attribute-Assisted Multimodal Memory Network](https://ieeexplore.ieee.org/document/10115482)
+
 [Perceptual Quality Assessment of Enhanced Colonoscopy Images: A Benchmark Dataset and an Objective Method](https://ieeexplore.ieee.org/document/10078370)
 
 [DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment](https://ieeexplore.ieee.org/document/10054487)
