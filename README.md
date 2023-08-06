@@ -18,6 +18,8 @@ Early Access
 
 [A Multiscale Approach to Deep Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/10056825)
 
+[Full-Reference Image Quality Expression via Genetic Programming](https://ieeexplore.ieee.org/document/10048682)
+
 [Degraded Reference Image Quality Assessment](https://ieeexplore.ieee.org/document/10014662)
 
 [Blind VQA on 360° Video via Progressively Learning from Pixels, Frames and Video](https://ieeexplore.ieee.org/document/9975252)
