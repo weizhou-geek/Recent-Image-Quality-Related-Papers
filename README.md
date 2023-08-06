@@ -351,9 +351,13 @@ Early Access
 
 [Perceptual Quality Assessment of Enhanced Colonoscopy Images: A Benchmark Dataset and an Objective Method](https://ieeexplore.ieee.org/document/10078370)
 
-[DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment](https://ieeexplore.ieee.org/document/10054487)
-
 [EHNQ: Subjective and Objective Quality Evaluation of Enhanced Night-Time Images](https://ieeexplore.ieee.org/document/10045730)
+
+[Depth Perception Assessment of 3D Videos Based on Stereoscopic and Spatial Orientation Structural Features](https://ieeexplore.ieee.org/document/9751756)
+
+2023
+
+[DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment](https://ieeexplore.ieee.org/document/10054487)
 
 [High Dynamic Range Image Quality Assessment Based on Frequency Disparity](https://ieeexplore.ieee.org/document/10021986)
 
@@ -372,8 +376,6 @@ Early Access
 [Quality Assessment of UGC Videos Based on Decomposition and Recomposition](https://ieeexplore.ieee.org/document/9900334)
 
 [Learning Spatiotemporal Interactions for User-Generated Video Quality Assessment](https://ieeexplore.ieee.org/document/9896907)
-
-[Depth Perception Assessment of 3D Videos Based on Stereoscopic and Spatial Orientation Structural Features](https://ieeexplore.ieee.org/document/9751756)
 
 2022
 
