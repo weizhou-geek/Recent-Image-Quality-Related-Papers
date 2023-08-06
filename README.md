@@ -12,6 +12,8 @@ Early Access
 
 2023
 
+[Study of Spatio-Temporal Modeling in Video Quality Assessment](https://ieeexplore.ieee.org/document/10120721)
+
 [Attention-Guided Neural Networks for Full-Reference and No-Reference Audio-Visual Quality Assessment](https://ieeexplore.ieee.org/document/10075375)
 
 [Bitstream-based Perceptual Quality Assessment of Compressed 3D Point Clouds](https://ieeexplore.ieee.org/document/10061856)
