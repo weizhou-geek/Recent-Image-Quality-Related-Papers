@@ -209,13 +209,13 @@ Early Access
 
 [Quantitative Comparison of Point Cloud Compression Algorithms with PCC Arena](https://ieeexplore.ieee.org/document/9722998)
 
-[User-generated Video Quality Assessment: A Subjective and Objective Study](https://ieeexplore.ieee.org/document/9594705)
-
 [Semi-supervised Adversarial Learning for Attribute-Aware Photo Aesthetic Assessment](https://ieeexplore.ieee.org/document/9563269)
 
 2023
 
 [Perceptual Quality Assessment of Cartoon Images](https://ieeexplore.ieee.org/document/9585540)
+
+[User-generated Video Quality Assessment: A Subjective and Objective Study](https://ieeexplore.ieee.org/document/9594705)
 
 [GraphIQA: Learning Distortion Graph Representations for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9720138)
 
