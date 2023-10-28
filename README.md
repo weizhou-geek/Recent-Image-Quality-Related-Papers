@@ -12,6 +12,8 @@ Early Access
 
 2023
 
+[CONVIQT: Contrastive Video Quality Estimator](https://ieeexplore.ieee.org/document/10243566)
+
 [Helping Visually Impaired People Take Better Quality Pictures](https://ieeexplore.ieee.org/document/10179270)
 
 [Subjective and Objective Audio-Visual Quality Assessment for User Generated Content](https://ieeexplore.ieee.org/document/10177693)
