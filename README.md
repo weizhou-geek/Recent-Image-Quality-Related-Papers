@@ -171,6 +171,18 @@ Early Access
 
 Early Access
 
+[Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token](https://ieeexplore.ieee.org/document/10287911)
+
+[FreqAlign: Excavating Perception-oriented Transferability for Blind Image Quality Assessment from A Frequency Perspective](https://ieeexplore.ieee.org/document/10287591)
+
+[Gap-Closing Matters: Perceptual Quality Evaluation and Optimization of Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/10243133)
+
+[Towards Thousands to One Reference: Can We Trust the Reference Image for Quality Assessment?](https://ieeexplore.ieee.org/document/10234614)
+
+[Quality Assessment for Stitched Panoramic Images via Patch Registration and Bidimensional Feature Aggregation](https://ieeexplore.ieee.org/document/10234631)
+
+[Blind Image Quality Index with Cross-domain Interaction and Cross-scale Integration](https://ieeexplore.ieee.org/document/10213444)
+
 [Going the Extra Mile in Face Image Quality Assessment: A Novel Database and Model](https://ieeexplore.ieee.org/document/10209208)
 
 [UIQI: A Comprehensive Quality Evaluation Index for Underwater Images](https://ieeexplore.ieee.org/document/10202586)
