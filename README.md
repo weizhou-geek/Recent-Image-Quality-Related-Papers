@@ -355,6 +355,12 @@ Early Access
 
 Early Access
 
+[Quality Harmonization for Virtual Composition in Online Video Communications](https://ieeexplore.ieee.org/document/10285876)
+
+[AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment](https://ieeexplore.ieee.org/document/10262331)
+
+[Synergetic Assessment of Quality and Aesthetic: Approach and Comprehensive Benchmark Dataset](https://ieeexplore.ieee.org/document/10214341)
+
 [Blind Image Quality Assessment based on Separate Representations and Adaptive Interaction of Content and Distortion](https://ieeexplore.ieee.org/document/10196496)
 
 [Light Field Image Quality Assessment Using Natural Scene Statistics and Texture Degradation](https://ieeexplore.ieee.org/document/10188405)
