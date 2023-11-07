@@ -173,6 +173,8 @@ Early Access
 
 Early Access
 
+[Stitched Wide Field of View Light Field Image Quality Assessment: Benchmark Database and Objective Metric](https://ieeexplore.ieee.org/document/10306301)
+
 [Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token](https://ieeexplore.ieee.org/document/10287911)
 
 [FreqAlign: Excavating Perception-oriented Transferability for Blind Image Quality Assessment from A Frequency Perspective](https://ieeexplore.ieee.org/document/10287591)
