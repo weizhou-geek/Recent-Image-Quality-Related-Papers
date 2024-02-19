@@ -205,8 +205,6 @@ Early Access
 
 [Towards Thousands to One Reference: Can We Trust the Reference Image for Quality Assessment?](https://ieeexplore.ieee.org/document/10234614)
 
-[Quantitative Comparison of Point Cloud Compression Algorithms with PCC Arena](https://ieeexplore.ieee.org/document/9722998)
-
 2024
 
 [Blind Quality Evaluator of Light Field Images by Group-Based Representations and Multiple Plane-Oriented Perceptual Characteristics](https://ieeexplore.ieee.org/document/10105489)
@@ -286,6 +284,8 @@ Early Access
 [Blind Dehazed Image Quality Assessment: A Deep CNN-Based Approach](https://ieeexplore.ieee.org/document/10058506)
 
 [Semi-Supervised Authentically Distorted Image Quality Assessment with Consistency-Preserving Dual-Branch Convolutional Neural Network](https://ieeexplore.ieee.org/document/9903545)
+
+[Quantitative Comparison of Point Cloud Compression Algorithms with PCC Arena](https://ieeexplore.ieee.org/document/9722998)
 
 2022
 
