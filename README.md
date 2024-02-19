@@ -10,6 +10,10 @@ Early Access
 
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
 
+2024
+
+[The Bjøntegaard Bible Why Your Way of Comparing Video Codecs May Be Wrong](https://ieeexplore.ieee.org/document/10403786)
+
 2023
 
 [BVI-VFI: A Video Quality Database for Video Frame Interpolation](https://ieeexplore.ieee.org/document/10304617)
