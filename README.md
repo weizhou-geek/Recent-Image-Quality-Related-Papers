@@ -424,7 +424,7 @@ Early Access
 
 [Blind Image Quality Assessment: A Fuzzy Neural Network for Opinion Score Distribution Prediction](https://ieeexplore.ieee.org/document/10184113)
 
-[Hierarchical Graph Convolutional Networks for Action Quality Assessment](https://ieeexplore.ieee.org/document/10138608)
+2023
 
 [Perceptual Quality Assessment of Enhanced Colonoscopy Images: A Benchmark Dataset and an Objective Method](https://ieeexplore.ieee.org/document/10078370)
 
@@ -433,8 +433,6 @@ Early Access
 [EHNQ: Subjective and Objective Quality Evaluation of Enhanced Night-Time Images](https://ieeexplore.ieee.org/document/10045730)
 
 [Depth Perception Assessment of 3D Videos Based on Stereoscopic and Spatial Orientation Structural Features](https://ieeexplore.ieee.org/document/9751756)
-
-2023
 
 [Image Aesthetics Assessment with Attribute-Assisted Multimodal Memory Network](https://ieeexplore.ieee.org/document/10115482)
 
