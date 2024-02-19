@@ -24,6 +24,10 @@ Early Access
 
 2023
 
+[Blind VQA on 360° Video via Progressively Learning From Pixels, Frames, and Video](https://ieeexplore.ieee.org/document/9975252)
+
+[Fuzzy Cluster-Based Group-Wise Point Set Registration With Quality Assessment](Fuzzy Cluster-Based Group-Wise Point Set Registration With Quality Assessment)
+
 [SUR-Driven Video Coding Rate Control for Jointly Optimizing Perceptual Quality and Buffer Control](https://ieeexplore.ieee.org/document/10266980)
 
 [Perceptually Weighted Rate Distortion Optimization for Video-Based Point Cloud Compression](https://ieeexplore.ieee.org/document/10301492)
