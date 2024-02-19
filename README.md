@@ -412,6 +412,20 @@ Early Access
 
 Early Access
 
+[BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment](https://ieeexplore.ieee.org/document/10438477)
+
+[Zoom to Perceive Better: No-reference Point Cloud Quality Assessment via Exploring Effective Multiscale Feature](https://ieeexplore.ieee.org/document/10422856)
+
+[Kinematic Diversity and Rhythmic Alignment in Choreographic Quality Transformers for Dance Quality Assessment](https://ieeexplore.ieee.org/document/10417066)
+
+[Deep Blind Image Quality Assessment Using Dynamic Neural Model with Dual-order Statistics](https://ieeexplore.ieee.org/document/10416247)
+
+[Plain-PCQA: No-Reference Point Cloud Quality Assessment by Analysis of Plain Visual and Geometrical Components](https://ieeexplore.ieee.org/document/10381826)
+
+[Perception-Driven Similarity-Clarity Tradeoff for Image Super-Resolution Quality Assessment](https://ieeexplore.ieee.org/document/10355918)
+
+[Active Learning-Based Sample Selection for Label-Efficient Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/10355923)
+
 [Quality Harmonization for Virtual Composition in Online Video Communications](https://ieeexplore.ieee.org/document/10285876)
 
 [AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment](https://ieeexplore.ieee.org/document/10262331)
