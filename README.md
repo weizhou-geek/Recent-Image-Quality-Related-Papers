@@ -26,7 +26,7 @@ Early Access
 
 [Blind VQA on 360° Video via Progressively Learning From Pixels, Frames, and Video](https://ieeexplore.ieee.org/document/9975252)
 
-[Fuzzy Cluster-Based Group-Wise Point Set Registration With Quality Assessment](Fuzzy Cluster-Based Group-Wise Point Set Registration With Quality Assessment)
+[Fuzzy Cluster-Based Group-Wise Point Set Registration With Quality Assessment](https://ieeexplore.ieee.org/document/9999704)
 
 [SUR-Driven Video Coding Rate Control for Jointly Optimizing Perceptual Quality and Buffer Control](https://ieeexplore.ieee.org/document/10266980)
 
