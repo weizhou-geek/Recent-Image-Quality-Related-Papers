@@ -205,24 +205,6 @@ Early Access
 
 [Towards Thousands to One Reference: Can We Trust the Reference Image for Quality Assessment?](https://ieeexplore.ieee.org/document/10234614)
 
-[Quality Assessment for Stitched Panoramic Images via Patch Registration and Bidimensional Feature Aggregation](https://ieeexplore.ieee.org/document/10234631)
-
-[Blind Image Quality Index with Cross-domain Interaction and Cross-scale Integration](https://ieeexplore.ieee.org/document/10213444)
-
-[Going the Extra Mile in Face Image Quality Assessment: A Novel Database and Model](https://ieeexplore.ieee.org/document/10209208)
-
-[UIQI: A Comprehensive Quality Evaluation Index for Underwater Images](https://ieeexplore.ieee.org/document/10202586)
-
-[Perceptual Quality Analysis in Deep Domains Using Structure Separation and High-Order Moments](https://ieeexplore.ieee.org/document/10180056)
-
-[Quality Assessment of Tone-mapped Images Using Fundamental Color and Structural Features](https://ieeexplore.ieee.org/document/10158061)
-
-[Progressive Bidirectional Feature Extraction and Enhancement Network for Quality Evaluation of Night-time Images](https://ieeexplore.ieee.org/document/10148826)
-
-[Pseudo Light Field Image and 4D Wavelet-transform-based Reduced-reference Light Field Image Quality Assessment](https://ieeexplore.ieee.org/document/10120923)
-
-[Blind Quality Evaluator of Light Field Images by Group-Based Representations and Multiple Plane-Oriented Perceptual Characteristics](https://ieeexplore.ieee.org/document/10105489)
-
 [Deep Blind Image Quality Assessment Powered by Online Hard Example Mining](https://ieeexplore.ieee.org/document/10070789)
 
 [Blind Dehazed Image Quality Assessment: A Deep CNN-Based Approach](https://ieeexplore.ieee.org/document/10058506)
@@ -264,6 +246,28 @@ Early Access
 [Semi-supervised Adversarial Learning for Attribute-Aware Photo Aesthetic Assessment](https://ieeexplore.ieee.org/document/9563269)
 
 2024
+
+[Blind Quality Evaluator of Light Field Images by Group-Based Representations and Multiple Plane-Oriented Perceptual Characteristics](https://ieeexplore.ieee.org/document/10105489)
+
+[Pseudo Light Field Image and 4D Wavelet-transform-based Reduced-reference Light Field Image Quality Assessment](https://ieeexplore.ieee.org/document/10120923)
+
+[Quality Assessment of Tone-mapped Images Using Fundamental Color and Structural Features](https://ieeexplore.ieee.org/document/10158061)
+
+[Progressive Bidirectional Feature Extraction and Enhancement Network for Quality Evaluation of Night-time Images](https://ieeexplore.ieee.org/document/10148826)
+
+[Multi-Level Transitional Contrast Learning for Personalized Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/10168279)
+
+[Modeling Multiple Aesthetic Views for Series Photo Selection](https://ieeexplore.ieee.org/document/10168263)
+
+[Perceptual Quality Analysis in Deep Domains Using Structure Separation and High-Order Moments](https://ieeexplore.ieee.org/document/10180056)
+
+[UIQI: A Comprehensive Quality Evaluation Index for Underwater Images](https://ieeexplore.ieee.org/document/10202586)
+
+[Going the Extra Mile in Face Image Quality Assessment: A Novel Database and Model](https://ieeexplore.ieee.org/document/10209208)
+
+[Blind Image Quality Index with Cross-domain Interaction and Cross-scale Integration](https://ieeexplore.ieee.org/document/10213444)
+
+[Quality Assessment for Stitched Panoramic Images via Patch Registration and Bidimensional Feature Aggregation](https://ieeexplore.ieee.org/document/10234631)
 
 [Gap-Closing Matters: Perceptual Quality Evaluation and Optimization of Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/10243133)
 
