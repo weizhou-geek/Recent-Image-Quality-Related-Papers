@@ -8,11 +8,11 @@ A list of recent image quality related papers published in top journals and conf
 
 Early Access
 
-[BVI-VFI: A Video Quality Database for Video Frame Interpolation](https://ieeexplore.ieee.org/document/10304617)
-
 [Deep Active Learning with Contaminated Tags for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/8340874)
 
 2023
+
+[BVI-VFI: A Video Quality Database for Video Frame Interpolation](https://ieeexplore.ieee.org/document/10304617)
 
 [CONVIQT: Contrastive Video Quality Estimator](https://ieeexplore.ieee.org/document/10243566)
 
