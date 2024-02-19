@@ -205,45 +205,9 @@ Early Access
 
 [Towards Thousands to One Reference: Can We Trust the Reference Image for Quality Assessment?](https://ieeexplore.ieee.org/document/10234614)
 
-[Deep Blind Image Quality Assessment Powered by Online Hard Example Mining](https://ieeexplore.ieee.org/document/10070789)
-
-[Blind Dehazed Image Quality Assessment: A Deep CNN-Based Approach](https://ieeexplore.ieee.org/document/10058506)
-
-[Visual Interaction Perceptual Network for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/10041721)
-
-[Coarse-to-fine Feedback Guidance Based Stereo Image Quality Assessment Considering Dominant Eye Fusion](https://ieeexplore.ieee.org/document/10036972)
-
-[Forgetting to Remember: A Scalable Incremental Learning Framework for Cross-Task Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/10036133)
-
-[Knowledge-Guided Blind Image Quality Assessment With Few Training Samples](https://ieeexplore.ieee.org/document/10003665)
-
-[Explainable and Generalizable Blind Image Quality Assessment via Semantic Attribute Reasoning](https://ieeexplore.ieee.org/document/9966848)
-
-[Blind Image Quality Assessment Via Cross-View Consistency](https://ieeexplore.ieee.org/document/9961939)
-
 [Semi-Supervised Authentically Distorted Image Quality Assessment with Consistency-Preserving Dual-Branch Convolutional Neural Network](https://ieeexplore.ieee.org/document/9903545)
 
-[Context Region Identification based Quality Assessment of 3D Synthesized Views](https://ieeexplore.ieee.org/document/9891833)
-
-[Generalized Score Distribution: A Two-Parameter Discrete Distribution Accurately Describing Responses From Quality of Experience Subjective Experiments](https://ieeexplore.ieee.org/document/9888234)
-
-[RV-TMO: Large-Scale Dataset for Subjective Quality Assessment of Tone Mapped Images](https://ieeexplore.ieee.org/document/9872141)
-
-[LIQA: Lifelong Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9830062)
-
-[End-to-End Blind Video Quality Assessment Based on Visual and Memory Attention Modeling](https://ieeexplore.ieee.org/document/9817621)
-
-[An Underwater Image Quality Assessment Metric](https://ieeexplore.ieee.org/document/9811407)
-
-[No-reference Bitstream-layer Model for Perceptual Quality Assessment of V-PCC Encoded Point Clouds](https://ieeexplore.ieee.org/document/9782549)
-
-[Pyramid Feature Aggregation for Hierarchical Quality Prediction of Stitched Panoramic Images](https://ieeexplore.ieee.org/document/9767701)
-
-[Visibility and Distortion Measurement for No-Reference Dehazed Image Quality Assessment via Complex Contourlet Transform](https://ieeexplore.ieee.org/document/9760039)
-
 [Quantitative Comparison of Point Cloud Compression Algorithms with PCC Arena](https://ieeexplore.ieee.org/document/9722998)
-
-[Semi-supervised Adversarial Learning for Attribute-Aware Photo Aesthetic Assessment](https://ieeexplore.ieee.org/document/9563269)
 
 2024
 
@@ -283,6 +247,45 @@ Early Access
 
 [CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360 VR Videos](https://ieeexplore.ieee.org/document/9599346)
 
+[User-Guided Personalized Image Aesthetic Assessment Based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9627535)
+
+[Visibility and Distortion Measurement for No-Reference Dehazed Image Quality Assessment via Complex Contourlet Transform](https://ieeexplore.ieee.org/document/9760039)
+
+[Pyramid Feature Aggregation for Hierarchical Quality Prediction of Stitched Panoramic Images](https://ieeexplore.ieee.org/document/9767701)
+
+[No-reference Bitstream-layer Model for Perceptual Quality Assessment of V-PCC Encoded Point Clouds](https://ieeexplore.ieee.org/document/9782549)
+
+[Deep Blind Image Quality Assessment Powered by Online Hard Example Mining](https://ieeexplore.ieee.org/document/10070789)
+
+[An Underwater Image Quality Assessment Metric](https://ieeexplore.ieee.org/document/9811407)
+
+[End-to-End Blind Video Quality Assessment Based on Visual and Memory Attention Modeling](https://ieeexplore.ieee.org/document/9817621)
+
+[LIQA: Lifelong Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/9830062)
+
+[RV-TMO: Large-Scale Dataset for Subjective Quality Assessment of Tone Mapped Images](https://ieeexplore.ieee.org/document/9872141)
+
+[Generalized Score Distribution: A Two-Parameter Discrete Distribution Accurately Describing Responses From Quality of Experience Subjective Experiments](https://ieeexplore.ieee.org/document/9888234)
+
+[Context Region Identification based Quality Assessment of 3D Synthesized Views](https://ieeexplore.ieee.org/document/9891833)
+
+[Semi-supervised Adversarial Learning for Attribute-Aware Photo Aesthetic Assessment](https://ieeexplore.ieee.org/document/9563269)
+
+[Composition-Guided Neural Network for Image Cropping Aesthetic Assessment](https://ieeexplore.ieee.org/document/9920203)
+
+[Blind Image Quality Assessment Via Cross-View Consistency](https://ieeexplore.ieee.org/document/9961939)
+
+[Explainable and Generalizable Blind Image Quality Assessment via Semantic Attribute Reasoning](https://ieeexplore.ieee.org/document/9966848)
+
+[Knowledge-Guided Blind Image Quality Assessment With Few Training Samples](https://ieeexplore.ieee.org/document/10003665)
+
+[Forgetting to Remember: A Scalable Incremental Learning Framework for Cross-Task Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/10036133)
+
+[Coarse-to-fine Feedback Guidance Based Stereo Image Quality Assessment Considering Dominant Eye Fusion](https://ieeexplore.ieee.org/document/10036972)
+
+[Visual Interaction Perceptual Network for Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/10041721)
+
+[Blind Dehazed Image Quality Assessment: A Deep CNN-Based Approach](https://ieeexplore.ieee.org/document/10058506)
 
 2022
 
