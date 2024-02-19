@@ -597,6 +597,26 @@ Early Access
 
 1. IEEE Conference on Computer Vision and Pattern Recognition
 
+2023
+
+[An Image Quality Assessment Dataset for Portraits](https://openaccess.thecvf.com/content/CVPR2023/papers/Chahine_An_Image_Quality_Assessment_Dataset_for_Portraits_CVPR_2023_paper.pdf)
+
+[LOGO: A Long-Form Video Dataset for Group Action Quality Assessment](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_LOGO_A_Long-Form_Video_Dataset_for_Group_Action_Quality_Assessment_CVPR_2023_paper.pdf)
+
+[Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Blind_Image_Quality_Assessment_via_Vision-Language_Correspondence_A_Multitask_Learning_CVPR_2023_paper.pdf)
+
+[Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Chai_Recognizability_Embedding_Enhancement_for_Very_Low-Resolution_Face_Recognition_and_Quality_CVPR_2023_paper.pdf)
+
+[CR-FIQA: Face Image Quality Assessment by Learning Sample Relative Classifiability](https://openaccess.thecvf.com/content/CVPR2023/papers/Boutros_CR-FIQA_Face_Image_Quality_Assessment_by_Learning_Sample_Relative_Classifiability_CVPR_2023_paper.pdf)
+
+[MD-VQA: Multi-Dimensional Quality Assessment for UGC Live Videos](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_MD-VQA_Multi-Dimensional_Quality_Assessment_for_UGC_Live_Videos_CVPR_2023_paper.pdf)
+
+[Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild](https://openaccess.thecvf.com/content/CVPR2023/papers/Saha_Re-IQA_Unsupervised_Learning_for_Image_Quality_Assessment_in_the_Wild_CVPR_2023_paper.pdf)
+
+[Quality-Aware Pre-Trained Models for Blind Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Quality-Aware_Pre-Trained_Models_for_Blind_Image_Quality_Assessment_CVPR_2023_paper.pdf)
+
+[Towards Artistic Image Aesthetics Assessment: A Large-Scale Dataset and a New Method](https://openaccess.thecvf.com/content/CVPR2023/papers/Yi_Towards_Artistic_Image_Aesthetics_Assessment_A_Large-Scale_Dataset_and_a_CVPR_2023_paper.pdf)
+
 2022
 
 [FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_FineDiving_A_Fine-Grained_Dataset_for_Procedure-Aware_Action_Quality_Assessment_CVPR_2022_paper.pdf)
