@@ -197,6 +197,26 @@ Early Access
 
 Early Access
 
+[Quality Assessment for DIBR-synthesized Views based on Wavelet Transform and Gradient Magnitude Similarity](https://ieeexplore.ieee.org/document/10409615)
+
+[BASICS: Broad Quality Assessment of Static Point Clouds in a Compression Scenario](https://ieeexplore.ieee.org/document/10403987)
+
+[A Dataset and Benchmark for 3D Scene Plausibility Assessment](https://ieeexplore.ieee.org/document/10398512)
+
+[RISTRA: Recursive Image Super-resolution Transformer with Relativistic Assessment](https://ieeexplore.ieee.org/document/10387581)
+
+[Perception-and-Cognition-Inspired Quality Assessment for Sonar Image Super-Resolution](https://ieeexplore.ieee.org/document/10380717)
+
+[Semi-Supervised Learning of Perceptual Video Quality by Generating Consistent Pairwise Pseudo-Ranks](https://ieeexplore.ieee.org/document/10374281)
+
+[Image Dehazing Assessment: A Real-World Dataset and A Haze Density-Aware Criteria](https://ieeexplore.ieee.org/document/10366874)
+
+[Evaluating Point Cloud from Moving Camera Videos: A No-Reference Metric](https://ieeexplore.ieee.org/document/10354431)
+
+[Perceptual Quality Assessment of Retouched Face Images](https://ieeexplore.ieee.org/document/10337739)
+
+[Adaptive Structure and Texture Similarity Metric for Image Quality Assessment and Optimization](https://ieeexplore.ieee.org/document/10323206)
+
 [Stitched Wide Field of View Light Field Image Quality Assessment: Benchmark Database and Objective Metric](https://ieeexplore.ieee.org/document/10306301)
 
 [Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token](https://ieeexplore.ieee.org/document/10287911)
