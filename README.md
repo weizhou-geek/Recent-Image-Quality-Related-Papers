@@ -203,8 +203,6 @@ Early Access
 
 [FreqAlign: Excavating Perception-oriented Transferability for Blind Image Quality Assessment from A Frequency Perspective](https://ieeexplore.ieee.org/document/10287591)
 
-[Gap-Closing Matters: Perceptual Quality Evaluation and Optimization of Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/10243133)
-
 [Towards Thousands to One Reference: Can We Trust the Reference Image for Quality Assessment?](https://ieeexplore.ieee.org/document/10234614)
 
 [Quality Assessment for Stitched Panoramic Images via Patch Registration and Bidimensional Feature Aggregation](https://ieeexplore.ieee.org/document/10234631)
@@ -264,6 +262,10 @@ Early Access
 [Quantitative Comparison of Point Cloud Compression Algorithms with PCC Arena](https://ieeexplore.ieee.org/document/9722998)
 
 [Semi-supervised Adversarial Learning for Attribute-Aware Photo Aesthetic Assessment](https://ieeexplore.ieee.org/document/9563269)
+
+2024
+
+[Gap-Closing Matters: Perceptual Quality Evaluation and Optimization of Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/10243133)
 
 2023
 
