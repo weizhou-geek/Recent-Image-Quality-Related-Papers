@@ -24,7 +24,15 @@ Early Access
 
 2023
 
+[SUR-Driven Video Coding Rate Control for Jointly Optimizing Perceptual Quality and Buffer Control](https://ieeexplore.ieee.org/document/10266980)
+
+[Perceptually Weighted Rate Distortion Optimization for Video-Based Point Cloud Compression](https://ieeexplore.ieee.org/document/10301492)
+
 [BVI-VFI: A Video Quality Database for Video Frame Interpolation](https://ieeexplore.ieee.org/document/10304617)
+
+[Fine-Grained Spatio-Temporal Parsing Network for Action Quality Assessment](https://ieeexplore.ieee.org/document/10317826)
+
+[EDDMF: An Efficient Deep Discrepancy Measuring Framework for Full-Reference Light Field Image Quality Assessment](https://ieeexplore.ieee.org/document/10319396)
 
 [CONVIQT: Contrastive Video Quality Estimator](https://ieeexplore.ieee.org/document/10243566)
 
