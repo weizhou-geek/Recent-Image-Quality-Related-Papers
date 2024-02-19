@@ -12,6 +12,14 @@ Early Access
 
 2024
 
+[A Study of Subjective and Objective Quality Assessment of HDR Videos](https://ieeexplore.ieee.org/document/10325414)
+
+[A Dataset and Model for the Visual Quality Assessment of Inversely Tone-Mapped HDR Videos](https://ieeexplore.ieee.org/document/10367823)
+
+[Dual-Stream Complex-Valued Convolutional Network for Authentic Dehazed Image Quality Assessment](https://ieeexplore.ieee.org/document/10375348)
+
+[One Transform to Compute Them All: Efficient Fusion-Based Full-Reference Video Quality Assessment](https://ieeexplore.ieee.org/document/10375336)
+
 [The Bjøntegaard Bible Why Your Way of Comparing Video Codecs May Be Wrong](https://ieeexplore.ieee.org/document/10403786)
 
 2023
